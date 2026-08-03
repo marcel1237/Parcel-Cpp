@@ -8,6 +8,7 @@
 - [x] Inspect service layer (Git, FileSystem, Persistence)
 - [x] Final synthesis and recommendations
 - [x] Standardize project licensing (Conditional Hexa-Licensing).
+- [x] Create project documentation (README.md).
 
 ## Advanced AI Enhancements
 - [x] Implement advanced SSQLM linting rules in `ScriptValidator`.
