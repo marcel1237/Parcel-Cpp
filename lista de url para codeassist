@@ -1,0 +1,127 @@
+#include <QVBoxLayout>
+#include <QHBoxLayout>
+#include <QLineEdit>
+#include <QUrl>
+
+#include <QWebEngineView>
+
+BrowserPane::BrowserPane(QWidget* parent)
+    : QWidget(parent)
+{
+    auto* layout = new QVBoxLayout(this);
+    layout->setContentsMargins(6, 6, 6, 6);
+    layout->setSpacing(4);
+
+    // Top bar (URL)
+    auto* top = new QHBoxLayout();
+    m_urlBar = new QLineEdit(this);
+    m_urlBar->setPlaceholderText("Digite uma URL e pressione Enter");
+    top->addWidget(m_urlBar);
+
+    layout->addLayout(top);
+
+    // Web view dentro do painel
+    m_view = new QWebEngineView(this);
+    layout->addWidget(m_view, 1);
+
+    // Carregar ao apertar Enter
+    connect(m_urlBar, &QLineEdit::returnPressed, this, [this]() {
+        loadUrl(m_urlBar->text());
+    });
+
+    // Atualiza barra quando a página mudar
+    connect(m_view, &QWebEngineView::urlChanged, this, [this](const QUrl& url) {
+        m_urlBar->setText(url.toString());
+    });
+
+    // Página inicial
+    m_view->load(QUrl("https://www.duckduckgo.com"));
+}
+
+void BrowserPane::loadUrl(const QString& input)
+{
+    QUrl url = QUrl::fromUserInput(input);
+    if (!url.isValid()) return;
+    m_view->load(url);
+}
+
+
+https://chat.openai.com/?q=SUA_MENSAGEM
+https://claude.ai/new?q=Explique%20teoria%20da%20relatividade
+
+1. Módulo Não-Oficial (Python)
+
+Existe um pacote criado pela comunidade no GitHub que reversou a engenharia da comunicação do Leo. Ele permite enviar prompts e receber respostas programaticamente, mas não cria um botão visual no seu software, apenas a lógica de backend.
+
+    Pacote: braveAI_leo_API
+
+    Instalação: pip install git+https://github.com/PythonX-001/braveAI_leo_API
+
+    Exemplo de Código:
+
+    from leo_API import Leo
+
+    # Inicializa
+    leo = Leo()
+
+    # Envia mensagem
+    resposta = leo.ask('Qual a capital da França?')
+    print(resposta.completion)
+
+
+    Aviso: Por não ser oficial, pode parar de funcionar a qualquer atualização do navegador.
+
+
+    1. Microsoft Copilot (Bing Chat) - Recomendado
+
+A biblioteca sydney-py é a mais estável e completa para acessar o motor do Copilot (antigo Bing Chat/Sydney) gratuitamente.
+
+    Instalação: pip install sydney-py
+
+    Funcionalidade: Permite enviar mensagens, receber respostas em streaming, mudar estilos de conversa e enviar imagens.
+
+    Exemplo de Código:
+
+    import asyncio
+    from sydney import SydneyClient
+
+    async def main():
+        async with SydneyClient() as sydney:
+            # Envia a mensagem e imprime a resposta
+            response = await sydney.ask("Qual a capital da França?")
+            print(f"Copilot: {response}")
+
+    asyncio.run(main())
+
+
+    Requisito: Pode exigir a extração de cookies do navegador Edge em algumas regiões, mas muitas vezes funciona apenas com a conexão.
+
+    2. ChatGPT (OpenAI) - Acesso sem Login
+
+Para usar o ChatGPT sem API Key (aproveitando o acesso gratuito web), existem scripts que simulam um navegador. O repositório ChatGPT-without-login é uma opção moderna.
+
+    Repositório: mapluisch/ChatGPT-without-login
+
+    Funcionalidade: Acessa a versão web do ChatGPT 3.5 sem necessidade de conta ou chave de API (dependendo da região/IP).
+
+    Exemplo de Uso (Conceitual):
+
+    # Requer clonar o repositório e instalar playwright
+    # pip install playwright
+    # python gpt.py "Sua pergunta aqui"
+
+
+    Aviso: Essa método é frágil e depende de mudanças na interface web da OpenAI.
+
+    3. Claude (Anthropic) - Apenas via API Oficial
+
+Diferente do Bing e do ChatGPT, não existem bibliotecas não-oficiais estáveis que permitam usar o Claude gratuitamente via web scraping devido à forte proteção contra bots da Anthropic.
+
+    Solução: É obrigatório usar a API oficial (pip install anthropic) com uma chave de API paga (ou créditos gratuitos iniciais).
+
+    Código Oficial:
+
+    from anthropic import Anthropic
+    client = Anthropic(api_key="SUA_CHAVE_AQUI")
+    response = client.messages.create(model="claude-3-5-sonnet-20241022", max_tokens=1024, messages=[{"role": "user", "content": "Olá"}])
+    print(response.content)

@@ -1,0 +1,5 @@
+/home/marcel1237/Parcel C++/build/CMakeFiles/ParcelCPP.dir
+/home/marcel1237/Parcel C++/build/CMakeFiles/edit_cache.dir
+/home/marcel1237/Parcel C++/build/CMakeFiles/rebuild_cache.dir
+/home/marcel1237/Parcel C++/build/CMakeFiles/ParcelCPP_autogen_timestamp_deps.dir
+/home/marcel1237/Parcel C++/build/CMakeFiles/ParcelCPP_autogen.dir

@@ -1,0 +1,3 @@
+Este é um conteúdo de teste.
+Você pode adicionar várias linhas aqui.
+O arquivo será criado automaticamente.

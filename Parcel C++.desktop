@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Parcel C++
+Comment=IDE Profissional com IA Gemini
+Exec="/home/marcel1237/Parcel C++/build/Parcel C++"
+Path=/home/marcel1237/Parcel C++
+Icon=/home/marcel1237/.local/share/icons/parcel-cpp-dark.png
+Terminal=false
+Categories=Development;IDE;
+StartupWMClass=Parcel C++
