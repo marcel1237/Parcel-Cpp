@@ -44,8 +44,10 @@ The Parcel C++ project is a high-performance, AI-driven IDE built on Qt 6. It di
     - **Latent Semantic Analysis (LSA):** Dimensionality reduction using SVD to find deeper relationships between code modules.
 - **Deep Technical Research:** `WebSearchService` now supports a **Multi-Source Synthesis** mode. It can crawl multiple technical sites simultaneously, extract code patterns using `trafilatura`, and present a synthesized implementation report.
 
-### 3. UI Modularity
+### 3. UI Modularity & Compliance
 - **QSS Migration:** Hardcoded CSS styles were extracted from `Theme.hpp` to `resource/qss/cyber-dark.qss`. The theme engine now supports hot-loading of styles without recompilation.
+- **Code Cleanup:** System-wide removal of unused variables (`line` in `EditorPane`) and unreferenced parameters in workspace signals to improve code quality and maintainability.
+- **Hexa-Licensing:** The project now follows the **Conditional Hexa-Licensing** model (PCL-3.0), combining Apache, EPL, MPL, UPL, BSD, and AGPL for maximum industrial resilience.
 
 ## Strategic Recommendations
 - **Component Expansion:** Add more Kirigami-based layouts to the `DesignerPane`.

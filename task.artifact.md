@@ -7,6 +7,7 @@
 - [x] Review UI components (Qt 6) and "Cyber-Dark" theme integration
 - [x] Inspect service layer (Git, FileSystem, Persistence)
 - [x] Final synthesis and recommendations
+- [x] Standardize project licensing (Conditional Hexa-Licensing).
 
 ## Advanced AI Enhancements
 - [x] Implement advanced SSQLM linting rules in `ScriptValidator`.
