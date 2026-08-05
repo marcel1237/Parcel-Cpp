@@ -50,10 +50,11 @@ cd parcel-cpp
 
 ## ⚖️ Licensing
 
-This project follows the **Conditional Hexa-Licensing (PCL-3.0)** model.
+This project is governed by a **Strict Proprietary Software License Agreement**.
 
-- **Permissive Use:** Official distributions are governed by Apache 2.0, EPL 2.0, MPL 2.0, and UPL 1.0.
-- **Reciprocity:** Modifications and derivative works activate **BSD 3-Clause** and **GNU AGPL 3.0** obligations.
+- **Proprietary & Confidential:** All rights are reserved by Marcel Aparecido de Andrade.
+- **Restrictions:** Redistribution, modification, reverse engineering, and SaaS hosting are strictly prohibited.
+- **Trade Secrets:** The core logic, including the SS AI Agent and SSQLM algorithms, are considered trade secrets.
 
 See [LICENSE.md](./LICENSE.md) for full legal terms.
 

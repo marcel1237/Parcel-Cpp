@@ -1,106 +1,68 @@
-# LICENSE
+# PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-## ⚖️ Licenciamento Híbrido e Condicional (Conditional Hexa-Licensing)
-
-Este projeto adota uma arquitetura de licenciamento inteligente para garantir a liberdade do usuário final e a integridade do código aberto em modificações industriais. O conjunto de licenças aplicáveis é determinado pela forma de interação com o Software:
-
-### 1. 🛡️ Uso Final e Distribuições Oficiais
-Para usuários que executam o software em sua forma original fornecida pelo Autor (**Marcel Aparecido de Andrade**) ou para fins de desenvolvimento interno, aplicam-se os termos permissivos e industriais:
-*   **[Parcel C++ License v3.0 (PCL-3.0)](#-parcel-c-license-v30-pcl-30)** - Termos Gerais.
-*   **[Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0)** - Proteção de Patentes.
-*   **[Eclipse Public License v2.0](https://www.eclipse.org/legal/epl-2.0/)** - Estrutura de Arquivos.
-*   **[Mozilla Public License v2.0](https://www.mozilla.org/en-US/MPL/2.0/)** - Resiliência de Código.
-*   **[Universal Permissive License v1.0 (UPL)](https://opensource.org/license/upl/)** - Interoperabilidade.
-
-### 2. 🛠️ Modificação, Redistribuição e Obras Derivadas
-Para qualquer pessoa ou entidade que exerça o direito de **modificar o código-fonte, criar obras derivadas ou redistribuir o software**, as obrigações de reciprocidade e atribuição são ativadas, adicionando-se cumulativamente:
-*   **[BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)** - Atribuição e Integridade de Nome.
-*   **[GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html)** - Copyleft de Rede (Obrigação de compartilhar modificações se oferecido via nuvem/SaaS).
+**Version 1.0 - August 2026**  
+**Copyright (C) 2026 Marcel Aparecido de Andrade. All Rights Reserved.**
 
 ---
 
-### 🔍 Identificador SPDX (Auditável)
+## ⚠️ NOTICE: STRICTLY PROPRIETARY AND CONFIDENTIAL
+
+This Software (**Parcel C++**) and all associated documentation, source code, and assets are the exclusive property of **Marcel Aparecido de Andrade** (the "Author"). This software is licensed, not sold. By using, installing, or accessing this Software, you agree to be bound by the terms of this Proprietary License.
+
+### 1. OWNERSHIP AND INTELLECTUAL PROPERTY
+The Author retains all right, title, and interest in and to the Software, including all copyrights, patents, trade secrets, trademarks, and other intellectual property rights. This Software is protected by international copyright laws and treaties. Any unauthorized use of the Author's intellectual property is strictly prohibited.
+
+### 2. GRANT OF LICENSE (RESTRICTED)
+Subject to your strict compliance with this Agreement, the Author grants you a limited, non-exclusive, non-transferable, and non-sublicensable license to:
+*   **Execute** the Software in binary form for your own personal or internal business use.
+*   **Access** the source code (if provided) solely for audit or internal configuration purposes, provided it is never shared outside your organization.
+
+### 3. PROHIBITED ACTIONS (ZERO TOLERANCE)
+The following actions are strictly prohibited and constitute a material breach of this license:
+*   **Redistribution**: You may not sell, lease, rent, lend, give, or otherwise distribute the Software or its source code to any third party.
+*   **Modification**: You may not modify, adapt, translate, or create derivative works based on the Software.
+*   **Reverse Engineering**: You may not reverse engineer, decompile, or disassemble the Software, or attempt to derive its source code, logic, or algorithms.
+*   **SaaS/Cloud Usage**: You may not host the Software as a service for third parties (SaaS) without a separate commercial agreement.
+*   **Removing Notices**: You may not remove or obscure any copyright notices, trademarks, or proprietary markings.
+
+### 4. CONFIDENTIALITY AND TRADE SECRETS
+The source code, logic, and internal architecture of **Parcel C++** (including the **SS AI Agent** and **SSQLM** algorithms) are considered high-value Trade Secrets of the Author. You must maintain the strictest confidentiality regarding the Software's internal workings.
+
+### 5. AUDIT RIGHTS
+The Author reserves the right to audit your use of the Software to ensure compliance with this Agreement. You agree to cooperate fully with any such audit and provide access to relevant systems and records.
+
+### 6. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically and immediately without notice from the Author if you fail to comply with any term(s) of this Agreement. Upon termination, you must cease all use of the Software and destroy all copies, full or partial.
+
+### 7. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+### 8. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THIS PRODUCT.
+
+### 9. GOVERNING LAW
+This Agreement shall be governed by the laws of the jurisdiction of the Author's residence, without regard to conflict of law principles.
+
+---
+
+### 🔍 SPDX Identifier (Audit Compliance)
 ```text
-SPDX-License-Identifier: BSD-3-Clause AND Apache-2.0 AND EPL-2.0 AND MPL-2.0 AND UPL-1.0 AND AGPL-3.0-only AND LicenseRef-PCL-3.0
+SPDX-License-Identifier: LicenseRef-Proprietary-ParcelCPP-1.0
 ```
 
 ---
 
-## 📄 Parcel C++ License v3.0 (PCL-3.0)
-
-**Versão 3.0 - Julho de 2026**  
-**Autor e Detentor Original:** Marcel Aparecido de Andrade  
-**Conformidade:** 100% Open Source Definition (OSD) Compliant.
-
-### 1. Concessão de Direitos
-O Detentor concede a você uma licença mundial, isenta de royalties, não exclusiva e perpétua para usar, reproduzir, modificar, exibir, executar e distribuir o Software. Esta concessão é plena e garante todas as liberdades fundamentais do software livre.
-
-### 2. Condições de Exercício (Reciprocidade)
-O exercício dos direitos de **modificação** ou **redistribuição** deste Software está condicionado à aceitação e cumprimento simultâneo das seguintes obrigações:
-*   **Compartilhamento de Melhorias**: Modificações no Core (arquivos em `src/`) devem ter seu código-fonte disponibilizado sob os termos da AGPL-3.0, incluindo em casos de interação via rede (SaaS).
-*   **Preservação de Crédito**: Toda redistribuição deve manter os avisos de copyright originais e o crédito ao Autor conforme exigido pela BSD 3-Clause.
-
-### 3. Independência de Extensões e Plugins
-Em conformidade com a arquitetura modular da IDE, módulos que interajam com o Software exclusivamente através de suas APIs públicas ou interfaces de plugins não são considerados "Obras Derivadas" para fins de reciprocidade forçada. Seus autores mantêm o direito de licenciá-los sob quaisquer termos, inclusive comerciais ou proprietários.
-
-### 4. Defesa de Patentes
-A licença concedida sob a PCL-3.0 inclui uma licença de patente automática de todos os contribuidores. Esta licença será rescindida se você iniciar um litígio de patentes contra o Autor alegando infração por parte deste Software.
-
-### 5. Isenção de Garantia
-O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA.
-
----
-
-## 📄 Termo Integral de Outorga Conjunta
-
-```text
-===============================================================================
-TERMO DE OUTORGA DE LICENÇA CONJUNTA E OBRIGATÓRIA (HEXA CO-LICENSING)
-===============================================================================
-
-Projeto: Parcel C++
-Detentor dos Direitos Autorais: Marcel Aparecido de Andrade
-Identificador SPDX: BSD-3-Clause AND Apache-2.0 AND EPL-2.0 AND MPL-2.0 AND UPL-1.0 AND AGPL-3.0-only AND LicenseRef-PCL-3.0
-
-Este software e seu código-fonte são distribuídos sob um modelo de outorga 
-conjunta, escalonável e obrigatória para garantir a integridade do ecossistema.
-
-A. ESTRUTURA JURÍDICA DE COMPATIBILIDADE:
-   Nos termos da Seção 1.13 da Eclipse Public License v2.0 e da Seção 3.3 da 
-   Mozilla Public License v2.0, o outorgante declara a UPL-1.0 e a AGPL-3.0 
-   como licenças integralmente compatíveis e aplicáveis ao conjunto da obra.
-
-B. ESCOPO DE APLICAÇÃO CONDICIONAL:
-   1. USO OFICIAL: Versões originais distribuídas pelo autor são regidas pelos 
-      termos da PCL-3.0, Apache-2.0, EPL-2.0, MPL-2.0 e UPL-1.0.
-   2. OBRAS DERIVADAS: Qualquer modificação ou redistribuição ativa, de forma
-      mandatória e indissociável, as obrigações de atribuição da BSD-3-Clause 
-      e o copyleft de rede da AGPL-3.0.
-
-C. PROTEÇÃO E MARCAS:
-   A concessão de direitos sobre o código-fonte não transfere direitos sobre 
-   a marca "Parcel C++" ou a identidade visual do projeto, cuja utilização
-   para fins comerciais por terceiros exige autorização prévia por escrito.
-
-A falha em cumprir as obrigações de reciprocidade (AGPL) ou atribuição (BSD) 
-ao exercer o direito de modificação resultará na revogação automática de 
-todos os direitos concedidos por esta outorga.
-===============================================================================
-```
-
----
-
-### 💻 Cabeçalho de Conformidade (Topo dos arquivos .cpp / .hpp)
+### 💻 Compliance Header (Top of .cpp / .hpp / .sh files)
 
 ```cpp
 /*
  * Copyright (C) 2026 Marcel Aparecido de Andrade.
  * Parcel C++ IDE - AI-Driven Industrial Development Toolkit
  *
- * SPDX-License-Identifier: BSD-3-Clause AND Apache-2.0 AND EPL-2.0 AND MPL-2.0 AND UPL-1.0 AND AGPL-3.0-only AND LicenseRef-PCL-3.0
+ * PROPRIETARY AND CONFIDENTIAL. UNAUTHORIZED COPYING IS PROHIBITED.
+ * This file is part of Parcel C++ and is governed by the 
+ * Proprietary Software License Agreement.
  *
- * Este código-fonte é regido pelo modelo Hexa Co-Licensing híbrido.
- * Uso oficial segue termos simplificados. Modificações ou redistribuições
- * ativam as obrigações da BSD-3-Clause e AGPL-3.0 conforme a PCL-3.0.
+ * All rights reserved. Trade Secret of Marcel Aparecido de Andrade.
  */
 ```

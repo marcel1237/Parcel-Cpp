@@ -7,7 +7,7 @@
 - [x] Review UI components (Qt 6) and "Cyber-Dark" theme integration
 - [x] Inspect service layer (Git, FileSystem, Persistence)
 - [x] Final synthesis and recommendations
-- [x] Standardize project licensing (Conditional Hexa-Licensing).
+- [x] Standardize project licensing (Strict Proprietary).
 - [x] Create project documentation (README.md).
 
 ## Advanced AI Enhancements

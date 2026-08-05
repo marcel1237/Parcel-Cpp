@@ -47,7 +47,7 @@ The Parcel C++ project is a high-performance, AI-driven IDE built on Qt 6. It di
 ### 3. UI Modularity & Compliance
 - **QSS Migration:** Hardcoded CSS styles were extracted from `Theme.hpp` to `resource/qss/cyber-dark.qss`. The theme engine now supports hot-loading of styles without recompilation.
 - **Code Cleanup:** System-wide removal of unused variables (`line` in `EditorPane`) and unreferenced parameters in workspace signals to improve code quality and maintainability.
-- **Hexa-Licensing:** The project now follows the **Conditional Hexa-Licensing** model (PCL-3.0), combining Apache, EPL, MPL, UPL, BSD, and AGPL for maximum industrial resilience.
+- **Proprietary Shield:** The project has been fully migrated to a **Strict Proprietary Software License Agreement (PCPL-1.0)**. All open-source components have been removed from the legal framework, protecting the SS AI Agent and SSQLM logic as high-value trade secrets.
 
 ## Strategic Recommendations
 - **Component Expansion:** Add more Kirigami-based layouts to the `DesignerPane`.
