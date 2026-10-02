@@ -17,6 +17,8 @@
     blueprints para c++ e criação de blueprints a partir de c++
 10. Abrir o Brave Browser e colocar a Leo AI dentro da Parcel C++
 11. Fazer um módulo de criação de distro linux.
+12. Fazer um módulo de criação de Jogos Eletrônicos.
+13. Passar todo tipo de projto da parce suite para a parcel C++.
 
 Adicione essa api -   <https://api.kde.org/>   \-  
 <https://api.kde.org/kirigami-index.html>
