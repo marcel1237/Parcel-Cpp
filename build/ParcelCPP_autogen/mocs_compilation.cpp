@@ -6,6 +6,7 @@
 #include "RQ5G6X32SA/moc_ProjectKnowledge.cpp"
 #include "RQ5G6X32SA/moc_SSAIModule.cpp"
 #include "RQ5G6X32SA/moc_WebSearchService.cpp"
+#include "RIEQWACMR2/moc_DotNetManager.cpp"
 #include "RIEQWACMR2/moc_DotNetService.cpp"
 #include "RIEQWACMR2/moc_GTK4Manager.cpp"
 #include "RIEQWACMR2/moc_KDEManager.cpp"

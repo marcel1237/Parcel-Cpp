@@ -35,6 +35,7 @@ ParcelCPP_autogen/timestamp: \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/BackupService.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DialogService.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
+	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetManager.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetService.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/FileSystemService.cpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/FileSystemService.hpp \
@@ -100,6 +101,7 @@ ParcelCPP_autogen/timestamp: \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/BackupService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/DialogService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
+	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetManager.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/FileSystemService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \

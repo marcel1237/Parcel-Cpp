@@ -548,6 +548,12 @@
 			null
 		],
 		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/DotNetManager.hpp",
+			"MU",
+			"RIEQWACMR2/moc_DotNetManager.cpp",
+			null
+		],
+		[
 			"/home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp",
 			"MU",
 			"RIEQWACMR2/moc_DotNetService.cpp",

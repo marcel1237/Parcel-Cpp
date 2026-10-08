@@ -41,6 +41,7 @@ set(SOURCES
     src/service/KDEIntegrationService.hpp
     src/service/DotNetIntegrationService.hpp
     src/service/DotNetService.hpp
+    src/service/DotNetManager.hpp
     src/service/GTK4IntegrationService.hpp
     src/service/GTK4Manager.hpp
     src/service/KDEManager.hpp
