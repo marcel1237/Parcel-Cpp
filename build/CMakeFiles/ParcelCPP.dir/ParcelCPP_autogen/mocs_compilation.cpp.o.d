@@ -508,6 +508,8 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/WebSearchService.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_DotNetService.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/DotNetService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_GTK4Manager.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/GTK4Manager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_BrowserPane.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/BrowserPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QWidget \
@@ -744,6 +746,9 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DotNetPane.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DotNetPane.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/DotNetService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GTK4Pane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GTK4Pane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/GTK4Manager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GeminiPane.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GeminiPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QScrollBar \

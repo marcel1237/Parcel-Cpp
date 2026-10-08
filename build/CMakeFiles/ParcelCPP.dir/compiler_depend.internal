@@ -42,6 +42,7 @@
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/KDEIntegrationService.hpp
@@ -52,6 +53,7 @@
  /home/marcel/Parcel Suite/Parcel C++/src/view/DashboardView.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DatabasePane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DotNetPane.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/view/GTK4Pane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GeminiPane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GitPane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/InspectionPane.hpp
@@ -102,6 +104,7 @@
  /home/marcel/Parcel-Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/FileSystemService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
+ /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK4Manager.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GitService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/KDEIntegrationService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/PdfService.hpp
@@ -1310,6 +1313,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetIntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/KDEIntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/PdfService.hpp
@@ -1318,6 +1322,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/src/view/DashboardView.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DatabasePane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DotNetPane.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/view/GTK4Pane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GeminiPane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GitPane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/InspectionPane.hpp
@@ -1356,6 +1361,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DashboardView.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DatabasePane.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DotNetPane.cpp
+ /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GTK4Pane.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GeminiPane.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GitPane.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_InspectionPane.cpp
@@ -1390,7 +1396,9 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_PdfViewerPane.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_ProjectHighlighter.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_DotNetService.cpp
+ /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_GTK4Manager.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/SS AI Agent/FilePatcher.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/SS AI Agent/GeminiClient.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/SS AI Agent/LocalAgent.hpp

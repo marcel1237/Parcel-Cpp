@@ -42,6 +42,7 @@ set(SOURCES
     src/service/DotNetIntegrationService.hpp
     src/service/DotNetService.hpp
     src/service/GTK4IntegrationService.hpp
+    src/service/GTK4Manager.hpp
 
     # Views (Interface Qt)
     src/view/MainWindow.hpp
@@ -65,6 +66,7 @@ set(SOURCES
     src/view/VersionsPane.hpp
     src/view/SavesPane.hpp
     src/view/DotNetPane.hpp
+    src/view/GTK4Pane.hpp
     src/view/explorer/PackageExplorer.cpp
     src/view/explorer/PackageExplorer.hpp
     src/view/explorer/DBMSExplorer.hpp

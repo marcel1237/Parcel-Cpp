@@ -39,6 +39,7 @@ ParcelCPP_autogen/timestamp: \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/FileSystemService.cpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/FileSystemService.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \
+	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4Manager.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GitService.cpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GitService.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/KDEIntegrationService.hpp \
@@ -49,6 +50,7 @@ ParcelCPP_autogen/timestamp: \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DashboardView.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DatabasePane.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DotNetPane.hpp \
+	/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GTK4Pane.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GeminiPane.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GitPane.hpp \
 	/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/InspectionPane.hpp \
@@ -99,6 +101,7 @@ ParcelCPP_autogen/timestamp: \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/FileSystemService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \
+	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/GTK4Manager.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/KDEIntegrationService.hpp \
 	/home/marcel/Parcel-Suite/Parcel\ C++/src/service/PdfService.hpp \
