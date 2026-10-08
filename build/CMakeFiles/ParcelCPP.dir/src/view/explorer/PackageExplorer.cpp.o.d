@@ -1,7 +1,7 @@
 CMakeFiles/ParcelCPP.dir/src/view/explorer/PackageExplorer.cpp.o: \
- /home/marcel1237/Parcel\ C++/src/view/explorer/PackageExplorer.cpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/PackageExplorer.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel1237/Parcel\ C++/src/view/explorer/PackageExplorer.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/PackageExplorer.hpp \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \

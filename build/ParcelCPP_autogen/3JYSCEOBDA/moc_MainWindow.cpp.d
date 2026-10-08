@@ -1,53 +1,53 @@
-/home/marcel1237/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_MainWindow.cpp: /home/marcel1237/Parcel\ C++/src/view/MainWindow.hpp \
-  /home/marcel1237/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
-  /home/marcel1237/Parcel\ C++/src/core/navigation/NavigationController.hpp \
-  /home/marcel1237/Parcel\ C++/src/core/navigation/NavigationTarget.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/BackupService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/DialogService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/FileSystemService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/GitService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/PdfService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/PersistenceService.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/BrowserPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/DashboardView.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/DatabasePane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/GeminiPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/GitPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/InspectionPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/LogcatPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/NewProjectView.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/OpenAIPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/OpenProjectView.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/ProjectHeader.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/ProjectTypeView.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/ProjectWorkspace.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/SSAIConsolePane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/SavesPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/SettingsView.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/ShellScriptingPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/TerminalPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/VersionsPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/DesignerPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/DiffDialog.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/EditorHost.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/EditorPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/HexEditorPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/PdfComposerPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/PdfViewerPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/explorer/CustomIconProvider.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/explorer/DBMSExplorer.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/explorer/FileTreeDelegate.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/explorer/PackageExplorer.hpp \
+/home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_MainWindow.cpp: /home/marcel/Parcel-Suite/Parcel\ C++/src/view/MainWindow.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationController.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationTarget.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/BackupService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DialogService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/FileSystemService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PdfService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PersistenceService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/BrowserPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/DashboardView.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/DatabasePane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/GeminiPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/GitPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/InspectionPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/LogcatPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/NewProjectView.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/OpenAIPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/OpenProjectView.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectHeader.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectTypeView.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectWorkspace.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/SSAIConsolePane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/SavesPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/SettingsView.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ShellScriptingPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/TerminalPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/VersionsPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/DesignerPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/DiffDialog.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorHost.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/HexEditorPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfComposerPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfViewerPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/CustomIconProvider.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/DBMSExplorer.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/FileTreeDelegate.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/PackageExplorer.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

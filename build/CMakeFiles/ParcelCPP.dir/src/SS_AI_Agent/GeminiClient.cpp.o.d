@@ -1,7 +1,7 @@
 CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/GeminiClient.cpp.o: \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.cpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobjectdefs.h \

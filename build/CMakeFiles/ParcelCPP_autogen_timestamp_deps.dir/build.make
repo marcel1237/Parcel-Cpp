@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/marcel1237/Parcel C++"
+CMAKE_SOURCE_DIR = "/home/marcel/Parcel-Suite/Parcel C++"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/marcel1237/Parcel C++/build"
+CMAKE_BINARY_DIR = "/home/marcel/Parcel-Suite/Parcel C++/build"
 
 # Utility rule file for ParcelCPP_autogen_timestamp_deps.
 
@@ -81,6 +81,6 @@ CMakeFiles/ParcelCPP_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/ParcelCPP_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/ParcelCPP_autogen_timestamp_deps.dir/depend:
-	cd "/home/marcel1237/Parcel C++/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marcel1237/Parcel C++" "/home/marcel1237/Parcel C++" "/home/marcel1237/Parcel C++/build" "/home/marcel1237/Parcel C++/build" "/home/marcel1237/Parcel C++/build/CMakeFiles/ParcelCPP_autogen_timestamp_deps.dir/DependInfo.cmake" "--color=$(COLOR)" ParcelCPP_autogen_timestamp_deps
+	cd "/home/marcel/Parcel-Suite/Parcel C++/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marcel/Parcel-Suite/Parcel C++" "/home/marcel/Parcel-Suite/Parcel C++" "/home/marcel/Parcel-Suite/Parcel C++/build" "/home/marcel/Parcel-Suite/Parcel C++/build" "/home/marcel/Parcel-Suite/Parcel C++/build/CMakeFiles/ParcelCPP_autogen_timestamp_deps.dir/DependInfo.cmake" "--color=$(COLOR)" ParcelCPP_autogen_timestamp_deps
 .PHONY : CMakeFiles/ParcelCPP_autogen_timestamp_deps.dir/depend
 

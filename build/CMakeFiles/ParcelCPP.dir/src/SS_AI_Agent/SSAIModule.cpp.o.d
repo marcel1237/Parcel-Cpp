@@ -1,7 +1,7 @@
 CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/SSAIModule.cpp.o: \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.cpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobjectdefs.h \
@@ -381,7 +381,7 @@ CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/SSAIModule.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qjsonparseerror.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QList \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qlist.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QFile \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfile.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfiledevice.h \
@@ -418,7 +418,7 @@ CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/SSAIModule.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtimezone.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSaveFile \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qsavefile.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/QNetworkAccessManager \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/qnetworkaccessmanager.h \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/qtnetworkglobal.h \
@@ -465,27 +465,27 @@ CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/SSAIModule.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qjsondocument.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QJsonArray \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qjsonarray.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDir \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdir.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdirlisting.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfileinfo.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QRegularExpression \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qregularexpression.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QProcess \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qprocess.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringList \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringlist.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariantMap \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qvariantmap.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QMap \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qmap.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/ScriptValidator.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/ScriptValidator.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QProcessEnvironment \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDirIterator \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdiriterator.h \

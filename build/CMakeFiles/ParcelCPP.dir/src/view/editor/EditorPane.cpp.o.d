@@ -1,7 +1,7 @@
 CMakeFiles/ParcelCPP.dir/src/view/editor/EditorPane.cpp.o: \
- /home/marcel1237/Parcel\ C++/src/view/editor/EditorPane.cpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorPane.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/EditorPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorPane.hpp \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
@@ -487,7 +487,7 @@ CMakeFiles/ParcelCPP.dir/src/view/editor/EditorPane.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtimezone.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QFile \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfile.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QSyntaxHighlighter \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qsyntaxhighlighter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextobject.h \

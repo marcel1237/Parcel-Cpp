@@ -1,15 +1,15 @@
-/home/marcel1237/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_EditorHost.cpp: /home/marcel1237/Parcel\ C++/src/view/editor/EditorHost.hpp \
-  /home/marcel1237/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
-  /home/marcel1237/Parcel\ C++/src/service/BackupService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/DialogService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/FileSystemService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/PdfService.hpp \
-  /home/marcel1237/Parcel\ C++/src/service/PersistenceService.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/EditorPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/HexEditorPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/PdfComposerPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/PdfViewerPane.hpp \
-  /home/marcel1237/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
+/home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_EditorHost.cpp: /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorHost.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/BackupService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DialogService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/FileSystemService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PdfService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PersistenceService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/HexEditorPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfComposerPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfViewerPane.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

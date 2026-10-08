@@ -1,13 +1,13 @@
-/home/marcel1237/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_SSAIModule.cpp: /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
-  /home/marcel1237/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
-  /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
+/home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_SSAIModule.cpp: /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

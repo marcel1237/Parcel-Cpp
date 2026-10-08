@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/marcel1237/Parcel C++"
+CMAKE_SOURCE_DIR = "/home/marcel/Parcel-Suite/Parcel C++"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/marcel1237/Parcel C++/build"
+CMAKE_BINARY_DIR = "/home/marcel/Parcel-Suite/Parcel C++/build"
 
 # Utility rule file for ParcelCPP_autogen.
 
@@ -71,9 +71,9 @@ CMakeFiles/ParcelCPP_autogen: ParcelCPP_autogen/timestamp
 ParcelCPP_autogen/timestamp: /usr/lib/qt6/libexec/moc
 ParcelCPP_autogen/timestamp: /usr/lib/qt6/libexec/uic
 ParcelCPP_autogen/timestamp: CMakeFiles/ParcelCPP_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="/home/marcel1237/Parcel C++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ParcelCPP"
-	/usr/bin/cmake -E cmake_autogen "/home/marcel1237/Parcel C++/build/CMakeFiles/ParcelCPP_autogen.dir/AutogenInfo.json" ""
-	/usr/bin/cmake -E touch "/home/marcel1237/Parcel C++/build/ParcelCPP_autogen/timestamp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir="/home/marcel/Parcel-Suite/Parcel C++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ParcelCPP"
+	/usr/bin/cmake -E cmake_autogen "/home/marcel/Parcel-Suite/Parcel C++/build/CMakeFiles/ParcelCPP_autogen.dir/AutogenInfo.json" ""
+	/usr/bin/cmake -E touch "/home/marcel/Parcel-Suite/Parcel C++/build/ParcelCPP_autogen/timestamp"
 
 CMakeFiles/ParcelCPP_autogen.dir/codegen:
 .PHONY : CMakeFiles/ParcelCPP_autogen.dir/codegen
@@ -92,6 +92,6 @@ CMakeFiles/ParcelCPP_autogen.dir/clean:
 .PHONY : CMakeFiles/ParcelCPP_autogen.dir/clean
 
 CMakeFiles/ParcelCPP_autogen.dir/depend:
-	cd "/home/marcel1237/Parcel C++/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marcel1237/Parcel C++" "/home/marcel1237/Parcel C++" "/home/marcel1237/Parcel C++/build" "/home/marcel1237/Parcel C++/build" "/home/marcel1237/Parcel C++/build/CMakeFiles/ParcelCPP_autogen.dir/DependInfo.cmake" "--color=$(COLOR)" ParcelCPP_autogen
+	cd "/home/marcel/Parcel-Suite/Parcel C++/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/marcel/Parcel-Suite/Parcel C++" "/home/marcel/Parcel-Suite/Parcel C++" "/home/marcel/Parcel-Suite/Parcel C++/build" "/home/marcel/Parcel-Suite/Parcel C++/build" "/home/marcel/Parcel-Suite/Parcel C++/build/CMakeFiles/ParcelCPP_autogen.dir/DependInfo.cmake" "--color=$(COLOR)" ParcelCPP_autogen
 .PHONY : CMakeFiles/ParcelCPP_autogen.dir/depend
 

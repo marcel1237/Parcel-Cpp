@@ -35,7 +35,7 @@ set(__QT_DEPLOY_SYSTEM_NAME "Linux")
 set(__QT_DEPLOY_SHARED_LIBRARY_SUFFIX ".so")
 set(__QT_DEPLOY_IS_SHARED_LIBS_BUILD "ON")
 set(__QT_DEPLOY_TOOL "GRD")
-set(__QT_DEPLOY_IMPL_DIR "/home/marcel1237/Parcel C++/build/.qt")
+set(__QT_DEPLOY_IMPL_DIR "/home/marcel/Parcel-Suite/Parcel C++/build/.qt")
 set(__QT_DEPLOY_VERBOSE "")
 set(__QT_CMAKE_EXPORT_NAMESPACE "Qt6")
 set(__QT_LIBINFIX "")
@@ -60,7 +60,7 @@ set(__QT_DEPLOY_QT_DEBUG_POSTFIX "")
 
 # Define the CMake commands to be made available during deployment.
 set(__qt_deploy_support_files
-    "/home/marcel1237/Parcel C++/build/.qt/QtDeployTargets.cmake"
+    "/home/marcel/Parcel-Suite/Parcel C++/build/.qt/QtDeployTargets.cmake"
     "/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreDeploySupport.cmake"
     "/usr/lib/x86_64-linux-gnu/cmake/Qt6Qml/Qt6QmlDeploySupport.cmake"
     "/usr/lib/x86_64-linux-gnu/cmake/Qt6WebEngineCore/Qt6WebEngineCoreDeploySupport.cmake"

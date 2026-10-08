@@ -1,7 +1,7 @@
 CMakeFiles/ParcelCPP.dir/src/service/GitService.cpp.o: \
- /home/marcel1237/Parcel\ C++/src/service/GitService.cpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel1237/Parcel\ C++/src/service/GitService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.hpp \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \

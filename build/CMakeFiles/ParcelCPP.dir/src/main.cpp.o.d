@@ -1,5 +1,6 @@
 CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
- /home/marcel1237/Parcel\ C++/src/main.cpp /usr/include/stdc-predef.h \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/main.cpp \
+ /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -462,7 +463,7 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qurl.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWebEngineCore/QWebEngineSettings \
  /usr/include/x86_64-linux-gnu/qt6/QtWebEngineCore/qwebenginesettings.h \
- /home/marcel1237/Parcel\ C++/src/view/MainWindow.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/MainWindow.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMainWindow \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmainwindow.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qwidget.h \
@@ -498,9 +499,9 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextdocument.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QTimer \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtimer.h \
- /home/marcel1237/Parcel\ C++/src/view/../core/navigation/NavigationController.hpp \
- /home/marcel1237/Parcel\ C++/src/view/../core/navigation/NavigationTarget.hpp \
- /home/marcel1237/Parcel\ C++/src/view/DashboardView.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/../core/navigation/NavigationController.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/../core/navigation/NavigationTarget.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/DashboardView.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qwidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QListWidget \
@@ -520,7 +521,7 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstyle.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtabbar.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qrubberband.h \
- /home/marcel1237/Parcel\ C++/src/view/NewProjectView.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/NewProjectView.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QGridLayout \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qgridlayout.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QLineEdit \
@@ -531,7 +532,7 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qcombobox.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QFrame \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qframe.h \
- /home/marcel1237/Parcel\ C++/src/view/OpenProjectView.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/OpenProjectView.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QFileDialog \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qfiledialog.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdir.h \
@@ -556,11 +557,11 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/c++/15/bits/regex.h /usr/include/c++/15/bits/regex.tcc \
  /usr/include/c++/15/bits/regex_executor.h \
  /usr/include/c++/15/bits/regex_executor.tcc \
- /home/marcel1237/Parcel\ C++/src/view/../service/GitService.hpp \
- /home/marcel1237/Parcel\ C++/src/view/ProjectTypeView.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/../service/GitService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectTypeView.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QScrollArea \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qscrollarea.h \
- /home/marcel1237/Parcel\ C++/src/view/ProjectWorkspace.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectWorkspace.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QSplitter \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qsplitter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTreeView \
@@ -589,8 +590,8 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qclipboard.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QProcess \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qprocess.h \
- /home/marcel1237/Parcel\ C++/src/view/ProjectHeader.hpp \
- /home/marcel1237/Parcel\ C++/src/view/../service/BackupService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectHeader.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/../service/BackupService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlDatabase \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qtsqlglobal.h \
@@ -606,21 +607,21 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdebug.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QMap \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qmap.h \
- /home/marcel1237/Parcel\ C++/src/view/explorer/PackageExplorer.hpp \
- /home/marcel1237/Parcel\ C++/src/view/explorer/DBMSExplorer.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/PackageExplorer.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/DBMSExplorer.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTreeWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtreewidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtreeview.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtreewidgetitemiterator.h \
- /home/marcel1237/Parcel\ C++/src/view/explorer/CustomIconProvider.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/CustomIconProvider.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QFileIconProvider \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qfileiconprovider.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qabstractfileiconprovider.h \
- /home/marcel1237/Parcel\ C++/src/view/explorer/FileTreeDelegate.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/FileTreeDelegate.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QStyledItemDelegate \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstyleditemdelegate.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/EditorHost.hpp \
- /home/marcel1237/Parcel\ C++/src/view/editor/EditorPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorHost.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/EditorPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QDesktopServices \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qdesktopservices.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QUrl \
@@ -633,7 +634,7 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qcompleter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringListModel \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringlistmodel.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QSyntaxHighlighter \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qsyntaxhighlighter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextobject.h \
@@ -664,8 +665,8 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextformat.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QRegularExpression \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qregularexpression.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/HexEditorPane.hpp \
- /home/marcel1237/Parcel\ C++/src/view/editor/PdfViewerPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/HexEditorPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfViewerPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWebEngineWidgets/QWebEngineView \
  /usr/include/x86_64-linux-gnu/qt6/QtWebEngineWidgets/qwebengineview.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QPageLayout \
@@ -692,22 +693,22 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QWeakPointer \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qsharedpointer.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qpagelayout.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/PdfComposerPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfComposerPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QPdfWriter \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qpdfwriter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qpagedpaintdevice.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/../../service/FileSystemService.hpp \
- /home/marcel1237/Parcel\ C++/src/view/editor/../../service/DialogService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/../../service/FileSystemService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/../../service/DialogService.hpp \
  /usr/include/c++/15/iostream \
- /home/marcel1237/Parcel\ C++/src/view/editor/../../service/PersistenceService.hpp \
- /home/marcel1237/Parcel\ C++/src/view/editor/../../service/PdfService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/../../service/PersistenceService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/../../service/PdfService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QTextDocument \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextdocument.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QCoreApplication \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/../../service/BackupService.hpp \
- /home/marcel1237/Parcel\ C++/src/view/GeminiPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/../../service/BackupService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/GeminiPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QScrollBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qscrollbar.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QProcessEnvironment \
@@ -715,14 +716,14 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtoolbutton.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QTextStream \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtextstream.h \
- /home/marcel1237/Parcel\ C++/src/view/../service/PersistenceService.hpp \
- /home/marcel1237/Parcel\ C++/src/view/OpenAIPane.hpp \
- /home/marcel1237/Parcel\ C++/src/view/BrowserPane.hpp \
- /home/marcel1237/Parcel\ C++/src/view/TerminalPane.hpp \
- /home/marcel1237/Parcel\ C++/src/view/InspectionPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/../service/PersistenceService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/OpenAIPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/BrowserPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/TerminalPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/InspectionPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QProgressBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qprogressbar.h \
- /home/marcel1237/Parcel\ C++/src/view/DatabasePane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/DatabasePane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlTableModel \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqltablemodel.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqlquerymodel.h \
@@ -795,27 +796,27 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCharts/qpieslice.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QDialog \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
- /home/marcel1237/Parcel\ C++/src/view/../service/PdfService.hpp \
- /home/marcel1237/Parcel\ C++/src/view/LogcatPane.hpp \
- /home/marcel1237/Parcel\ C++/src/view/VersionsPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/../service/PdfService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/LogcatPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/VersionsPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTableWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtablewidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtableview.h \
- /home/marcel1237/Parcel\ C++/src/view/SavesPane.hpp \
- /home/marcel1237/Parcel\ C++/src/view/ShellScriptingPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/SavesPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ShellScriptingPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QGroupBox \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qgroupbox.h \
- /home/marcel1237/Parcel\ C++/src/view/GitPane.hpp \
- /home/marcel1237/Parcel\ C++/src/view/SSAIConsolePane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/GitPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/SSAIConsolePane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QTemporaryFile \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtemporaryfile.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QList \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSaveFile \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qsavefile.h \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/QNetworkAccessManager \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/qnetworkaccessmanager.h \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/qnetworkrequest.h \
@@ -842,17 +843,17 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/qnetworkrequest.h \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/QNetworkAccessManager \
  /usr/include/x86_64-linux-gnu/qt6/QtNetwork/QNetworkRequest \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/QLMEngine.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/PythonExecutor.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/MLService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringList \
- /home/marcel1237/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/WebSearchService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariantMap \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qvariantmap.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QMap \
- /home/marcel1237/Parcel\ C++/src/view/editor/DesignerPane.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/DesignerPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets/QQuickWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets/qquickwidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtQuick/qquickwindow.h \
@@ -906,10 +907,10 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtQml/qqmlabstracturlinterceptor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtQml/QQmlComponent \
  /usr/include/x86_64-linux-gnu/qt6/QtQml/qqmlcomponent.h \
- /home/marcel1237/Parcel\ C++/src/view/editor/DiffDialog.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/DiffDialog.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QTextBlock \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextobject.h \
- /home/marcel1237/Parcel\ C++/src/view/SettingsView.hpp \
- /home/marcel1237/Parcel\ C++/src/view/Theme.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/SettingsView.hpp \
+ /home/marcel/Parcel-Suite/Parcel\ C++/src/view/Theme.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QColor \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qcolor.h
