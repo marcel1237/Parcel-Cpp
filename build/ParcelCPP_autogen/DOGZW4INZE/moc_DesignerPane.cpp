@@ -258,7 +258,8 @@ template <> constexpr inline auto Parcel::View::DesignerPane::qt_create_metaobje
         "onSaveAsClicked",
         "",
         "onElementSelected",
-        "index"
+        "index",
+        "updateComponentComboBox"
     };
 
     QtMocHelpers::UintData qt_methods {
@@ -268,6 +269,8 @@ template <> constexpr inline auto Parcel::View::DesignerPane::qt_create_metaobje
         QtMocHelpers::SlotData<void(int)>(3, 2, QMC::AccessPrivate, QMetaType::Void, {{
             { QMetaType::Int, 4 },
         }}),
+        // Slot 'updateComponentComboBox'
+        QtMocHelpers::SlotData<void()>(5, 2, QMC::AccessPrivate, QMetaType::Void),
     };
     QtMocHelpers::UintData qt_properties {
     };
@@ -293,6 +296,7 @@ void Parcel::View::DesignerPane::qt_static_metacall(QObject *_o, QMetaObject::Ca
         switch (_id) {
         case 0: _t->onSaveAsClicked(); break;
         case 1: _t->onElementSelected((*reinterpret_cast<std::add_pointer_t<int>>(_a[1]))); break;
+        case 2: _t->updateComponentComboBox(); break;
         default: ;
         }
     }
@@ -317,14 +321,14 @@ int Parcel::View::DesignerPane::qt_metacall(QMetaObject::Call _c, int _id, void 
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 2)
+        if (_id < 3)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 2;
+        _id -= 3;
     }
     if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 2)
+        if (_id < 3)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 2;
+        _id -= 3;
     }
     return _id;
 }

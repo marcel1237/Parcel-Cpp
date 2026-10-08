@@ -25,6 +25,7 @@
 #include <QTabWidget>
 #include <QMenu>
 #include <QToolButton>
+#include <QComboBox>
 
 namespace Parcel::View {
 
@@ -399,6 +400,17 @@ namespace Parcel::View {
             btnSaveAs->setStyleSheet("background-color: #34A853; color: white; font-weight: bold; padding: 8px; border-radius: 4px; margin-bottom: 10px; border: none;");
             palLayout->addWidget(btnSaveAs);
 
+            m_componentComboLabel = new QLabel("🎯 Selecionar Componente", this);
+            m_componentComboLabel->setStyleSheet("color: #4285F4; font-weight: bold; font-size: 11px; margin-bottom: 2px;");
+            palLayout->addWidget(m_componentComboLabel);
+
+            m_componentComboBox = new QComboBox(this);
+            m_componentComboBox->setStyleSheet("background: #3c3f41; color: #bcbec4; border: 1px solid #4e5157; padding: 5px; border-radius: 4px; margin-bottom: 10px;");
+            palLayout->addWidget(m_componentComboBox);
+
+            m_componentComboLabel->setVisible(false);
+            m_componentComboBox->setVisible(false);
+
             m_palette = new QListWidget(this);
             m_palette->addItem("--- QT QUICK BASICS ---");
             m_palette->addItems({"Rectangle", "Text", "Image", "Item", "Row", "Column", "Grid", "Flow"});
@@ -470,7 +482,18 @@ namespace Parcel::View {
             uiLayout->addWidget(horizontalSplitter);
 
             connect(m_palette, &QListWidget::itemDoubleClicked, [this](QListWidgetItem* item) { if (!item->text().startsWith("---")) m_model->addElement(item->text()); });
-            connect(m_model, &DesignerModel::modelUpdated, [this]() { m_codeEditor->setPlainText(m_model->generateQmlCode()); });
+            connect(m_model, &DesignerModel::modelUpdated, [this]() {
+                m_codeEditor->setPlainText(m_model->generateQmlCode());
+                updateComponentComboBox();
+            });
+            connect(m_componentComboBox, QOverload<int>::of(&QComboBox::currentIndexChanged), [this](int index) {
+                if (index >= 0) {
+                    int modelIndex = m_componentComboBox->itemData(index).toInt();
+                    if (modelIndex != m_selectedIndex) {
+                        m_model->selectElement(modelIndex);
+                    }
+                }
+            });
             connect(m_model, &DesignerModel::elementSelected, this, &DesignerPane::onElementSelected);
             connect(btnSaveAs, &QPushButton::clicked, this, &DesignerPane::onSaveAsClicked);
 
@@ -521,7 +544,18 @@ namespace Parcel::View {
         }
 
         void onElementSelected(int index) {
-            m_selectedIndex = index; auto e = m_model->getElement(index);
+            m_selectedIndex = index;
+            if (m_componentComboBox) {
+                m_componentComboBox->blockSignals(true);
+                for (int i = 0; i < m_componentComboBox->count(); ++i) {
+                    if (m_componentComboBox->itemData(i).toInt() == index) {
+                        m_componentComboBox->setCurrentIndex(i);
+                        break;
+                    }
+                }
+                m_componentComboBox->blockSignals(false);
+            }
+            auto e = m_model->getElement(index);
             auto setFieldVisible = [&](QWidget* field, bool visible) { field->setVisible(visible); if (m_propLabels.contains(field)) m_propLabels[field]->setVisible(visible); };
             for (auto* f : m_propLabels.keys()) setFieldVisible(f, false);
             m_propChecked->setVisible(false);
@@ -539,6 +573,33 @@ namespace Parcel::View {
             if (e.type == "Image" || e.type == "Kirigami.Icon" || e.type == "Kirigami.UrlButton" || e.type == "Kirigami.PlaceholderMessage" || e.type == "Kirigami.Action") { m_propSource->setText(e.source); setFieldVisible(m_propSource, true); if (e.type == "Image") { m_propFillMode->setText(e.fillMode); setFieldVisible(m_propFillMode, true); } }
             if (e.type == "ProgressBar" || e.type == "Slider" || e.type == "SpinBox" || e.type == "Dial" || e.type.contains("Row") || e.type.contains("Column") || e.type.contains("Grid") || e.type.contains("Flow")) { m_propValue->setText(QString::number(e.value)); setFieldVisible(m_propValue, true); }
             if (e.type == "TextField" || e.type == "TextArea" || e.type == "Kirigami.ActionTextField" || e.type == "Kirigami.SearchField") { m_propPlaceholder->setText(e.placeholder); setFieldVisible(m_propPlaceholder, true); }
+        }
+
+        void updateComponentComboBox() {
+            if (!m_componentComboBox || !m_componentComboLabel) return;
+            m_componentComboBox->blockSignals(true);
+            m_componentComboBox->clear();
+            int count = m_model->rowCount();
+            if (count > 0) {
+                for (int i = 0; i < count; ++i) {
+                    auto e = m_model->getElement(i);
+                    m_componentComboBox->addItem(QString("[%1] %2 (%3)").arg(QString::number(i), e.id, e.type), i);
+                }
+                m_componentComboLabel->setVisible(true);
+                m_componentComboBox->setVisible(true);
+                if (m_selectedIndex >= 0 && m_selectedIndex < count) {
+                    for (int i = 0; i < m_componentComboBox->count(); ++i) {
+                        if (m_componentComboBox->itemData(i).toInt() == m_selectedIndex) {
+                            m_componentComboBox->setCurrentIndex(i);
+                            break;
+                        }
+                    }
+                }
+            } else {
+                m_componentComboLabel->setVisible(false);
+                m_componentComboBox->setVisible(false);
+            }
+            m_componentComboBox->blockSignals(false);
         }
 
     private:
@@ -617,6 +678,8 @@ namespace Parcel::View {
         QLineEdit* m_propRadius; QLineEdit* m_propPlaceholder; QLineEdit* m_propItems; QLineEdit* m_propColumns;
         QLineEdit* m_propFontSize; QLineEdit* m_propBorderWidth; QLineEdit* m_propBorderColor;
         QCheckBox* m_propChecked; QMap<QWidget*, QLabel*> m_propLabels; QLineEdit* m_viewNameEdit;
+        QComboBox* m_componentComboBox = nullptr;
+        QLabel* m_componentComboLabel = nullptr;
         int m_selectedIndex = -1;
     };
 }

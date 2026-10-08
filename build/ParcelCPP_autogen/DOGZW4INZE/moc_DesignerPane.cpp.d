@@ -534,6 +534,7 @@
   /usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets/qtquickwidgetsexports.h \
   /usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets/qtquickwidgetsglobal.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QCheckBox \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QComboBox \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QFileDialog \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QHBoxLayout \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QLabel \
@@ -556,6 +557,7 @@
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qabstractspinbox.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qboxlayout.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qcheckbox.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qcombobox.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialogbuttonbox.h \
   /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qfiledialog.h \
