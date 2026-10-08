@@ -41,6 +41,7 @@
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/KDEIntegrationService.hpp
@@ -100,6 +101,7 @@
  /home/marcel/Parcel-Suite/Parcel C++/src/service/DotNetIntegrationService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/FileSystemService.hpp
+ /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GitService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/KDEIntegrationService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/PdfService.hpp
@@ -1307,6 +1309,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/src/service/BackupService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetIntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/KDEIntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/PdfService.hpp
@@ -7460,6 +7463,7 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/src/core/navigation/NavigationTarget.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/BackupService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetIntegrationService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/KDEIntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/PdfService.hpp

@@ -11,6 +11,7 @@
 #include "../service/PersistenceService.hpp"
 #include "../service/KDEIntegrationService.hpp"
 #include "../service/DotNetIntegrationService.hpp"
+#include "../service/GTK4IntegrationService.hpp"
 #include "../core/navigation/NavigationController.hpp"
 
 namespace Parcel::View {
@@ -76,6 +77,19 @@ namespace Parcel::View {
             dotnetInfo->setStyleSheet("font-size: 11px; color: #34A853; background: #141f14; padding: 10px; border-radius: 4px; border: 1px solid #233;");
             dotnetBox->addWidget(dotnetInfo);
             mainLayout->addLayout(dotnetBox);
+
+            // GTK 4 Full API Integration Section
+            auto* gtkBox = new QVBoxLayout();
+            auto* gtkLabel = new QLabel("Integração GTK 4 (GLib, GObject, Gio, GDK, GSK & GTK Widgets):", this);
+            gtkLabel->setStyleSheet("font-size: 14px; color: #bbb; font-weight: bold; margin-top: 15px;");
+            gtkBox->addWidget(gtkLabel);
+
+            QString gtkText = Service::GTK4IntegrationService::getInstance().getApiInfo() + "\n" +
+                              Service::GTK4IntegrationService::getInstance().getGtk4WidgetsApi();
+            auto* gtkInfo = new QLabel(gtkText, this);
+            gtkInfo->setStyleSheet("font-size: 11px; color: #3584e4; background: #1a1e24; padding: 10px; border-radius: 4px; border: 1px solid #234;");
+            gtkBox->addWidget(gtkInfo);
+            mainLayout->addLayout(gtkBox);
 
             mainLayout->addStretch();
 

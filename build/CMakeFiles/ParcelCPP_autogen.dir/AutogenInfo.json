@@ -560,6 +560,12 @@
 			null
 		],
 		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp",
+			"MU",
+			"RIEQWACMR2/moc_GTK4IntegrationService.cpp",
+			null
+		],
+		[
 			"/home/marcel/Parcel Suite/Parcel C++/src/service/GitService.hpp",
 			"MU",
 			"RIEQWACMR2/moc_GitService.cpp",

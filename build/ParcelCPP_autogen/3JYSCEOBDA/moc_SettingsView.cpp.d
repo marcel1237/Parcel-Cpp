@@ -3,6 +3,7 @@
   /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationController.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationTarget.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/KDEIntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PersistenceService.hpp \
   /usr/include/alloca.h \

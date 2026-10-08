@@ -41,6 +41,7 @@ set(SOURCES
     src/service/KDEIntegrationService.hpp
     src/service/DotNetIntegrationService.hpp
     src/service/DotNetService.hpp
+    src/service/GTK4IntegrationService.hpp
 
     # Views (Interface Qt)
     src/view/MainWindow.hpp
