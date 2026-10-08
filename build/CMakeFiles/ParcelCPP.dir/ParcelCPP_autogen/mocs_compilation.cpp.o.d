@@ -939,6 +939,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qcolor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QPalette \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qpalette.h \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/DotNetIntegrationService.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_NewProjectView.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/NewProjectView.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenAIPane.cpp \

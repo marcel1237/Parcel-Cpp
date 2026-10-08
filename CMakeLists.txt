@@ -39,6 +39,7 @@ set(SOURCES
     src/service/PdfService.hpp
     src/service/BackupService.hpp
     src/service/KDEIntegrationService.hpp
+    src/service/DotNetIntegrationService.hpp
 
     # Views (Interface Qt)
     src/view/MainWindow.hpp

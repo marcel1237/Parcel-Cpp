@@ -36,6 +36,7 @@ ParcelCPP_autogen/timestamp: /home/marcel/Parcel\ Suite/Parcel\ C++/CMakeLists.t
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/main.cpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/BackupService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DialogService.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/FileSystemService.cpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/FileSystemService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GitService.cpp \
@@ -93,6 +94,7 @@ ParcelCPP_autogen/timestamp: /home/marcel/Parcel\ Suite/Parcel\ C++/CMakeLists.t
   /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationTarget.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/BackupService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DialogService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/FileSystemService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/KDEIntegrationService.hpp \
@@ -10851,8 +10853,6 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectWorkspace.cpp:
 
 ParcelCPP_autogen/3JYSCEOBDA/moc_OpenAIPane.cpp:
 
-ParcelCPP_autogen/3JYSCEOBDA/moc_NewProjectView.cpp:
-
 ParcelCPP_autogen/3JYSCEOBDA/moc_MainWindow.cpp:
 
 ParcelCPP_autogen/3JYSCEOBDA/moc_DatabasePane.cpp:
@@ -11099,9 +11099,7 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_SavesPane.cpp:
 
 /usr/lib/x86_64-linux-gnu/cmake/Qt6PrintSupport/Qt6PrintSupportAdditionalTargetInfo.cmake:
 
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qatomic_cxx11.h:
+/usr/lib/x86_64-linux-gnu/cmake/Qt6Positioning/Qt6PositioningVersionlessAliasTargets.cmake:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qatomic.h:
 
@@ -11187,8 +11185,6 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_SavesPane.cpp:
 
 /usr/include/x86_64-linux-gnu/c++/15/bits/ctype_base.h:
 
-/usr/lib/x86_64-linux-gnu/cmake/Qt6Positioning/Qt6PositioningVersionlessAliasTargets.cmake:
-
 /usr/include/x86_64-linux-gnu/c++/15/bits/c++locale.h:
 
 /usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
@@ -11237,8 +11233,6 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_LogcatPane.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/time_t.h:
@@ -11267,6 +11261,10 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_LogcatPane.cpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCharts/QBarSet:
 
+ParcelCPP_autogen/3JYSCEOBDA/moc_NewProjectView.cpp:
+
+/home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
@@ -11274,10 +11272,6 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_LogcatPane.cpp:
 /usr/include/x86_64-linux-gnu/qt6/QtCore/QSizeF:
 
 /usr/include/x86_64-linux-gnu/qt6/QtGui/qpen.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
-
-/usr/include/c++/15/bits/unordered_set.h:
 
 /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectHeader.hpp:
 
@@ -11343,9 +11337,9 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_LogcatPane.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
-/usr/include/c++/15/debug/debug.h:
-
 /usr/include/c++/15/bits/regex.tcc:
+
+/usr/include/c++/15/debug/debug.h:
 
 /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
 
@@ -11627,11 +11621,17 @@ CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/OpenAIClient.cpp.o:
 
 /usr/include/c++/15/bits/utility.h:
 
-/home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/DBMSExplorer.hpp:
+/usr/include/c++/15/bits/chrono.h:
 
-/usr/include/c++/15/bits/stl_set.h:
+/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicGitHelpers.cmake:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qdatastream.h:
+/usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlQueryModel:
+
+/usr/include/c++/15/bits/uses_allocator.h:
+
+/usr/include/x86_64-linux-gnu/c++/15/bits/gthr-default.h:
+
+/usr/include/x86_64-linux-gnu/qt6/QtGui/qwindow.h:
 
 /usr/include/c++/15/istream:
 
@@ -11701,11 +11701,13 @@ ParcelCPP_autogen/DOGZW4INZE/moc_DesignerPane.cpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qdatetime.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtGui/QDesktopServices:
-
 /usr/include/c++/15/tr1/modified_bessel_func.tcc:
 
 /home/marcel/Parcel-Suite/Parcel\ C++/src/view/SettingsView.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
+
+/usr/include/c++/15/bits/unordered_set.h:
 
 /usr/lib/x86_64-linux-gnu/cmake/Qt6QuickTools/Qt6QuickToolsDependencies.cmake:
 
@@ -11880,6 +11882,24 @@ ParcelCPP_autogen/moc_predefs.h:
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qabstracteventdispatcher.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtNetwork/qsslerror.h:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qassert.h:
+
+/home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfViewerPane.hpp:
+
+/usr/include/c++/15/bits/regex_executor.h:
+
+/usr/lib/x86_64-linux-gnu/libnghttp2.so.14:
+
+/usr/include/x86_64-linux-gnu/qt6/QtQuick/qquickwindow.h:
+
+/usr/include/c++/15/cwchar:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qtpreprocessorsupport.h:
+
+/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/SavesPane.hpp:
+
+/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenubar.h:
 
 /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/OpenProjectView.hpp:
 
@@ -12063,20 +12083,6 @@ CMakeFiles/ParcelCPP.dir/src/view/editor/ProjectHighlighter.cpp.o:
 
 /home/marcel/Parcel\ Suite/Parcel\ C++/src/SS\ AI\ Agent/OpenAIClient.hpp:
 
-/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0:
-
-/usr/include/stdint.h:
-
-/usr/include/x86_64-linux-gnu/qt6/QtGui/QColor:
-
-/home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectWorkspace.hpp:
-
-/home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/FileTreeDelegate.hpp:
-
-/usr/include/c++/15/concepts:
-
-/usr/include/c++/15/bits/list.tcc:
-
 /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0:
 
 /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/PersistenceService.cpp:
@@ -12193,9 +12199,17 @@ CMakeFiles/ParcelCPP.dir/src/view/editor/ProjectHighlighter.cpp.o:
 
 /usr/include/c++/15/bits/regex_executor.tcc:
 
+/usr/lib/x86_64-linux-gnu/cmake/Qt6Positioning/Qt6PositioningTargets.cmake:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCore/QTimer:
+
+/usr/include/c++/15/type_traits:
+
 /usr/lib/x86_64-linux-gnu/cmake/Qt6Network/Qt6NetworkConfigVersion.cmake:
 
 /home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectTypeView.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
 /usr/include/c++/15/bitset:
 
@@ -12223,6 +12237,12 @@ CMakeFiles/ParcelCPP.dir/src/view/editor/ProjectHighlighter.cpp.o:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qsavefile.h:
 
+/usr/include/c++/15/bits/stl_set.h:
+
+/home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/DBMSExplorer.hpp:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qdatastream.h:
+
 /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/MainWindow.hpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/QJsonArray:
@@ -12247,6 +12267,10 @@ CMakeFiles/ParcelCPP.dir/src/view/editor/ProjectHighlighter.cpp.o:
 
 /usr/include/c++/15/bits/locale_facets.h:
 
+/usr/include/x86_64-linux-gnu/c++/15/bits/cpu_defines.h:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCharts/QLegend:
+
 /usr/lib/x86_64-linux-gnu/cmake/Qt6PrintSupport/Qt6PrintSupportConfigVersionImpl.cmake:
 
 /usr/include/assert.h:
@@ -12269,23 +12293,19 @@ CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/GeminiClient.cpp.o:
 
 /usr/include/c++/15/bits/uniform_int_dist.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qassert.h:
+/usr/include/c++/15/concepts:
 
-/home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/PdfViewerPane.hpp:
+/usr/include/c++/15/bits/list.tcc:
 
-/usr/include/c++/15/bits/regex_executor.h:
+/usr/lib/x86_64-linux-gnu/libgio-2.0.so.0:
 
-/usr/lib/x86_64-linux-gnu/libnghttp2.so.14:
+/usr/include/stdint.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtQuick/qquickwindow.h:
+/usr/include/x86_64-linux-gnu/qt6/QtGui/QColor:
 
-/usr/include/c++/15/cwchar:
+/home/marcel/Parcel-Suite/Parcel\ C++/src/view/ProjectWorkspace.hpp:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qtpreprocessorsupport.h:
-
-/home/marcel/Parcel\ Suite/Parcel\ C++/src/view/SavesPane.hpp:
-
-/usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmenubar.h:
+/home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/FileTreeDelegate.hpp:
 
 /home/marcel/Parcel-Suite/Parcel\ C++/src/view/explorer/PackageExplorer.hpp:
 
@@ -12369,10 +12389,6 @@ CMakeFiles/ParcelCPP.dir/src/service/GitService.cpp.o:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qtypeinfo.h:
 
-/usr/include/c++/15/bits/chrono.h:
-
-/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicGitHelpers.cmake:
-
 /usr/lib/x86_64-linux-gnu/libxslt.so.1:
 
 /usr/include/c++/15/bits/cxxabi_forced.h:
@@ -12408,14 +12424,6 @@ CMakeFiles/ParcelCPP.dir/src/service/GitService.cpp.o:
 /usr/include/x86_64-linux-gnu/qt6/QtSql/qsqldatabase.h:
 
 /usr/include/c++/15/bits/new_allocator.h:
-
-/usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlQueryModel:
-
-/usr/include/c++/15/bits/uses_allocator.h:
-
-/usr/include/x86_64-linux-gnu/c++/15/bits/gthr-default.h:
-
-/usr/include/x86_64-linux-gnu/qt6/QtGui/qwindow.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qalloc.h:
 
@@ -12531,9 +12539,9 @@ CMakeFiles/ParcelCPP.dir/src/service/GitService.cpp.o:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/QCoreApplication:
 
-/home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/HexEditorPane.hpp:
-
 /usr/include/x86_64-linux-gnu/qt6/QtCore/QJsonDocument:
+
+/home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/HexEditorPane.hpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qchar.h:
 
@@ -12603,9 +12611,11 @@ CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/ProjectKnowledge.cpp.o:
 
 /usr/include/c++/15/bits/string_view.tcc:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCharts/QLegend:
+/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
 
-/usr/include/x86_64-linux-gnu/c++/15/bits/cpu_defines.h:
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qatomic_cxx11.h:
+
+/usr/include/x86_64-linux-gnu/qt6/QtGui/QDesktopServices:
 
 ParcelCPP_autogen/RQ5G6X32SA/moc_GeminiClient.cpp:
 
@@ -12893,9 +12903,9 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_TerminalPane.cpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qtemporaryfile.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtQml/qqmlerror.h:
-
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
+
+/usr/include/x86_64-linux-gnu/qt6/QtQml/qqmlerror.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qtimer.h:
 
@@ -13229,9 +13239,9 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_GeminiPane.cpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtQml/qtqml-config.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/qbasicatomic.h:
-
 /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMenu:
+
+/usr/include/x86_64-linux-gnu/qt6/QtCore/qbasicatomic.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtQml/qtqmlexports.h:
 
@@ -13463,12 +13473,6 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_GeminiPane.cpp:
 
 /usr/include/x86_64-linux-gnu/sys/single_threaded.h:
 
-/usr/include/x86_64-linux-gnu/qt6/QtCore/QTimer:
-
-/usr/include/c++/15/type_traits:
-
-/usr/lib/x86_64-linux-gnu/cmake/Qt6Positioning/Qt6PositioningTargets.cmake:
-
 /usr/lib/x86_64-linux-gnu/cmake/Qt6GuiTools/Qt6GuiToolsDependencies.cmake:
 
 /usr/include/x86_64-linux-gnu/sys/types.h:
@@ -13618,6 +13622,8 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectTypeView.cpp:
 /usr/share/cmake-4.2/Modules/Compiler/GNU-CXX.cmake:
 
 /usr/lib/x86_64-linux-gnu/cmake/Qt6DBus/Qt6DBusConfigVersionImpl.cmake:
+
+/home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtWebEngineWidgets/qtwebenginewidgetsglobal.h:
 

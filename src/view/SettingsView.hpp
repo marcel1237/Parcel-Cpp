@@ -10,6 +10,7 @@
 #include <QMessageBox>
 #include "../service/PersistenceService.hpp"
 #include "../service/KDEIntegrationService.hpp"
+#include "../service/DotNetIntegrationService.hpp"
 #include "../core/navigation/NavigationController.hpp"
 
 namespace Parcel::View {
@@ -61,6 +62,20 @@ namespace Parcel::View {
             kdeInfo->setStyleSheet("font-size: 12px; color: #00BFFF; background: #1a1a2e; padding: 10px; border-radius: 4px; border: 1px solid #333;");
             kdeBox->addWidget(kdeInfo);
             mainLayout->addLayout(kdeBox);
+
+            // .NET Framework, LINQ & Entity Framework Integration Section
+            auto* dotnetBox = new QVBoxLayout();
+            auto* dotnetLabel = new QLabel("Integração .NET Framework & Entity Framework / LINQ APIs:", this);
+            dotnetLabel->setStyleSheet("font-size: 14px; color: #bbb; font-weight: bold; margin-top: 15px;");
+            dotnetBox->addWidget(dotnetLabel);
+
+            QString dotnetText = Service::DotNetIntegrationService::getInstance().getApiInfo() + "\n" +
+                                 Service::DotNetIntegrationService::getInstance().getLinqBridgeInfo() + "\n" +
+                                 Service::DotNetIntegrationService::getInstance().getEntityFrameworkInfo();
+            auto* dotnetInfo = new QLabel(dotnetText, this);
+            dotnetInfo->setStyleSheet("font-size: 11px; color: #34A853; background: #141f14; padding: 10px; border-radius: 4px; border: 1px solid #233;");
+            dotnetBox->addWidget(dotnetInfo);
+            mainLayout->addLayout(dotnetBox);
 
             mainLayout->addStretch();
 
