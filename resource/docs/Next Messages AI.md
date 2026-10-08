@@ -1,12 +1,5 @@
-1.  Faça uma combobox dos componentes com os itens que tem colocados durante
-    uma edição no visual editor, da aba visual designer, para poder selecionar
-    os itens, usando o combobox.
-2.  Aplique a api do kde <https://api.kde.org/> em toda IDE, para uso geral.
-    Procure também do Kdevelop da própria IDE para usarmos qualquer tipo de api
-    que interesse.
-3.  Aplique a api do dotnet framework em toda IDE para uso de tecnologias como
+3.  Coloque a api do dotnet framework em toda IDE para uso de tecnologias como
     linq, Entity Framework e outras tecnologias em todas as linguagens.
-4.  Baixe o código fonte da cryengine e comece...
 5.  Adicione todas APIs javascript como jquery, angular, vue.js e outras... e
     também php...
 6.  Adicione uma leitura de blueprint para conversão para c++
@@ -18,7 +11,7 @@
 10. Abrir o Brave Browser e colocar a Leo AI dentro da Parcel C++
 11. Fazer um módulo de criação de distro linux.
 12. Fazer um módulo de criação de Jogos Eletrônicos.
-13. Passar todo tipo de projto da parce suite para a parcel C++.
+13. Passar todo tipo de projeto da parcel suite para a parcel C++.
 
 Adicione essa api -   <https://api.kde.org/>   \-  
 <https://api.kde.org/kirigami-index.html>

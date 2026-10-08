@@ -38,6 +38,7 @@ set(SOURCES
     src/service/DialogService.hpp
     src/service/PdfService.hpp
     src/service/BackupService.hpp
+    src/service/KDEIntegrationService.hpp
 
     # Views (Interface Qt)
     src/view/MainWindow.hpp

@@ -911,6 +911,7 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QTextBlock \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextobject.h \
  /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/SettingsView.hpp \
- /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/Theme.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/../service/KDEIntegrationService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QColor \
- /usr/include/x86_64-linux-gnu/qt6/QtGui/qcolor.h
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/qcolor.h \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/Theme.hpp

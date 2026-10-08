@@ -15,6 +15,7 @@
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DialogService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/FileSystemService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/KDEIntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PdfService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PersistenceService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/view/BrowserPane.hpp \
@@ -610,6 +611,7 @@
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qyieldcpu.h \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QBrush \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QClipboard \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/QColor \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QDesktopServices \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QFileSystemModel \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QFont \
@@ -617,6 +619,7 @@
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QMatrix4x4 \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QPageLayout \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QPainter \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/QPalette \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QPdfWriter \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QPen \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/QShortcut \

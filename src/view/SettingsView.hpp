@@ -9,6 +9,7 @@
 #include <QPushButton>
 #include <QMessageBox>
 #include "../service/PersistenceService.hpp"
+#include "../service/KDEIntegrationService.hpp"
 #include "../core/navigation/NavigationController.hpp"
 
 namespace Parcel::View {
@@ -49,6 +50,17 @@ namespace Parcel::View {
             auto* infoLabel = new QLabel("Nota: Se deixado em branco, a IDE tentará ler do seu .bashrc.", this);
             infoLabel->setStyleSheet("font-size: 11px; color: #888; font-style: italic;");
             mainLayout->addWidget(infoLabel);
+
+            // KDE & KDevelop API Integration Section
+            auto* kdeBox = new QVBoxLayout();
+            auto* kdeLabel = new QLabel("Integração KDE Frameworks & KDevelop APIs:", this);
+            kdeLabel->setStyleSheet("font-size: 14px; color: #bbb; font-weight: bold; margin-top: 15px;");
+            kdeBox->addWidget(kdeLabel);
+
+            auto* kdeInfo = new QLabel(QString::fromStdString(Service::KDEIntegrationService::getInstance().getApiInfo().toStdString() + "\n" + Service::KDEIntegrationService::getInstance().getKDevelopApiInfo().toStdString()), this);
+            kdeInfo->setStyleSheet("font-size: 12px; color: #00BFFF; background: #1a1a2e; padding: 10px; border-radius: 4px; border: 1px solid #333;");
+            kdeBox->addWidget(kdeInfo);
+            mainLayout->addLayout(kdeBox);
 
             mainLayout->addStretch();
 

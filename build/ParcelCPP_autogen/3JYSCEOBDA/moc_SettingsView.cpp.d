@@ -2,6 +2,7 @@
   /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationController.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationTarget.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/KDEIntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PersistenceService.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -278,6 +279,8 @@
   /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QMap \
+  /usr/include/x86_64-linux-gnu/qt6/QtCore/QString \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/q17memory.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/q20functional.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/q20iterator.h \
@@ -407,6 +410,9 @@
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qversiontagging.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qxptype_traits.h \
   /usr/include/x86_64-linux-gnu/qt6/QtCore/qyieldcpu.h \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/QColor \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/QIcon \
+  /usr/include/x86_64-linux-gnu/qt6/QtGui/QPalette \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qaction.h \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qbitmap.h \
   /usr/include/x86_64-linux-gnu/qt6/QtGui/qbrush.h \

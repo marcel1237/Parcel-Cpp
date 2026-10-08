@@ -934,6 +934,11 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QTextBlock \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextobject.h \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SettingsView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/KDEIntegrationService.hpp \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/QColor \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/qcolor.h \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/QPalette \
+ /usr/include/x86_64-linux-gnu/qt6/QtGui/qpalette.h \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_NewProjectView.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/NewProjectView.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenAIPane.cpp \
