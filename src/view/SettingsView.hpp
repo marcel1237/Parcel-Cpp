@@ -13,6 +13,7 @@
 #include "../service/DotNetIntegrationService.hpp"
 #include "../service/GTK4IntegrationService.hpp"
 #include "../service/GTK3IntegrationService.hpp"
+#include "../service/GTK2IntegrationService.hpp"
 #include "../core/navigation/NavigationController.hpp"
 
 namespace Parcel::View {

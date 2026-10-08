@@ -15,6 +15,7 @@
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DialogService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/FileSystemService.hpp \
+  /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GTK2IntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GTK3IntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.hpp \
