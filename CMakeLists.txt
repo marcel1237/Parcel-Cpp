@@ -40,6 +40,7 @@ set(SOURCES
     src/service/BackupService.hpp
     src/service/KDEIntegrationService.hpp
     src/service/DotNetIntegrationService.hpp
+    src/service/DotNetService.hpp
 
     # Views (Interface Qt)
     src/view/MainWindow.hpp
@@ -62,6 +63,7 @@ set(SOURCES
     src/view/SSAIConsolePane.hpp
     src/view/VersionsPane.hpp
     src/view/SavesPane.hpp
+    src/view/DotNetPane.hpp
     src/view/explorer/PackageExplorer.cpp
     src/view/explorer/PackageExplorer.hpp
     src/view/explorer/DBMSExplorer.hpp

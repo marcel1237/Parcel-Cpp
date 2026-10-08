@@ -548,6 +548,12 @@
 			null
 		],
 		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp",
+			"MU",
+			"RIEQWACMR2/moc_DotNetService.cpp",
+			null
+		],
+		[
 			"/home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.hpp",
 			"MU",
 			"RIEQWACMR2/moc_FileSystemService.cpp",
@@ -593,6 +599,12 @@
 			"/home/marcel/Parcel Suite/Parcel C++/src/view/DatabasePane.hpp",
 			"MU",
 			"3JYSCEOBDA/moc_DatabasePane.cpp",
+			null
+		],
+		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/view/DotNetPane.hpp",
+			"MU",
+			"3JYSCEOBDA/moc_DotNetPane.cpp",
 			null
 		],
 		[
