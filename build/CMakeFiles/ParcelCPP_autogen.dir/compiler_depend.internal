@@ -42,6 +42,8 @@
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK2IntegrationService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK2Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK3IntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK3Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
@@ -57,6 +59,7 @@
  /home/marcel/Parcel Suite/Parcel C++/src/view/DashboardView.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DatabasePane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DotNetPane.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/view/GTK2Pane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GTK3Pane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GTK4Pane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GeminiPane.hpp
@@ -110,6 +113,8 @@
  /home/marcel/Parcel-Suite/Parcel C++/src/service/DotNetManager.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/FileSystemService.hpp
+ /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK2IntegrationService.hpp
+ /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK2Manager.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK3IntegrationService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK3Manager.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK4IntegrationService.hpp

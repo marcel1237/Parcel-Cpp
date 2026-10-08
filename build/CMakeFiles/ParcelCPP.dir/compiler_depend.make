@@ -1326,6 +1326,8 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetManager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetService.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK2IntegrationService.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK2Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK3IntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK3Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \
@@ -1339,6 +1341,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DashboardView.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DatabasePane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DotNetPane.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GTK2Pane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GTK3Pane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GTK4Pane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GeminiPane.hpp \
@@ -1380,6 +1383,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   ParcelCPP_autogen/3JYSCEOBDA/moc_DashboardView.cpp \
   ParcelCPP_autogen/3JYSCEOBDA/moc_DatabasePane.cpp \
   ParcelCPP_autogen/3JYSCEOBDA/moc_DotNetPane.cpp \
+  ParcelCPP_autogen/3JYSCEOBDA/moc_GTK2Pane.cpp \
   ParcelCPP_autogen/3JYSCEOBDA/moc_GTK3Pane.cpp \
   ParcelCPP_autogen/3JYSCEOBDA/moc_GTK4Pane.cpp \
   ParcelCPP_autogen/3JYSCEOBDA/moc_GeminiPane.cpp \
@@ -1418,11 +1422,13 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   ParcelCPP_autogen/DOGZW4INZE/moc_ProjectHighlighter.cpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetManager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetService.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK2Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK3Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/KDEManager.hpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_DotNetManager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_DotNetService.cpp \
+  ParcelCPP_autogen/RIEQWACMR2/moc_GTK2Manager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_GTK3Manager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_GTK4Manager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_KDEManager.cpp \
@@ -7486,6 +7492,7 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: /home/marcel/Parcel\ Suite/Parcel\ C++/
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/core/navigation/NavigationTarget.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/BackupService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DotNetIntegrationService.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK2IntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK3IntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GitService.hpp \
@@ -10913,6 +10920,8 @@ ParcelCPP_autogen/3JYSCEOBDA/moc_KDEPane.cpp:
 
 ParcelCPP_autogen/3JYSCEOBDA/moc_GTK3Pane.cpp:
 
+ParcelCPP_autogen/3JYSCEOBDA/moc_GTK2Pane.cpp:
+
 ParcelCPP_autogen/3JYSCEOBDA/moc_DatabasePane.cpp:
 
 ParcelCPP_autogen/3JYSCEOBDA/moc_DashboardView.cpp:
@@ -13174,6 +13183,8 @@ ParcelCPP_autogen/DOGZW4INZE/moc_DiffDialog.cpp:
 /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringalgorithms.h:
 
 /usr/include/x86_64-linux-gnu/qt6/QtGui/qclipboard.h:
+
+ParcelCPP_autogen/RIEQWACMR2/moc_GTK2Manager.cpp:
 
 /usr/include/x86_64-linux-gnu/qt6/QtGui/qcolor.h:
 
