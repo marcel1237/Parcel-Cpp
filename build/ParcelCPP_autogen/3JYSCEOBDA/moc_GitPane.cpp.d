@@ -1,5 +1,5 @@
-/home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GitPane.cpp: /home/marcel/Parcel-Suite/Parcel\ C++/src/view/GitPane.hpp \
-  /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
+/home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GitPane.cpp: /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/GitPane.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

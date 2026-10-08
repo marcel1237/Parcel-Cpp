@@ -1,5 +1,5 @@
-/home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenProjectView.cpp: /home/marcel/Parcel-Suite/Parcel\ C++/src/view/OpenProjectView.hpp \
-  /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
+/home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenProjectView.cpp: /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/OpenProjectView.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationController.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/core/navigation/NavigationTarget.hpp \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/service/GitService.hpp \

@@ -1,8 +1,8 @@
 CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/mocs_compilation.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_GeminiClient.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/GeminiClient.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_GeminiClient.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/GeminiClient.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QObject \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobject.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qobjectdefs.h \
@@ -434,10 +434,10 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtmochelpers.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtmocconstants.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/q20algorithm.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_LocalAgent.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/LocalAgent.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_LocalAgent.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/LocalAgent.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QList \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/QLMEngine.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/QLMEngine.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDir \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdir.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdirlisting.h \
@@ -470,44 +470,44 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfile.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QRegularExpression \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qregularexpression.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_MLService.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/MLService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_MLService.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/MLService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringList \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringlist.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/PythonExecutor.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/PythonExecutor.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QProcess \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qprocess.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDebug \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdebug.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_OpenAIClient.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/OpenAIClient.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_ProjectKnowledge.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/ProjectKnowledge.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_OpenAIClient.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/OpenAIClient.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_ProjectKnowledge.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/ProjectKnowledge.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QMap \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qmap.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QDateTime \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qdatetime.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_SSAIModule.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/SSAIModule.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/FilePatcher.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_SSAIModule.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/SSAIModule.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/FilePatcher.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QTextStream \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtextstream.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QFileInfo \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qfileinfo.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QSaveFile \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qsavefile.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/GeminiClient.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/OpenAIClient.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/LocalAgent.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/MLService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/WebSearchService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/GeminiClient.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/OpenAIClient.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/LocalAgent.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/MLService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/WebSearchService.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QVariantMap \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qvariantmap.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QMap \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_WebSearchService.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/WebSearchService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_BrowserPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/BrowserPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/moc_WebSearchService.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RQ5G6X32SA/../../../src/SS\ AI\ Agent/WebSearchService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_BrowserPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/BrowserPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qwidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -588,8 +588,8 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmessagebox.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialogbuttonbox.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DashboardView.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DashboardView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DashboardView.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DashboardView.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QLabel \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qlabel.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qpicture.h \
@@ -615,10 +615,10 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qrubberband.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QIcon \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qicon.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../core/navigation/NavigationController.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../core/navigation/NavigationTarget.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DatabasePane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DatabasePane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../core/navigation/NavigationController.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../core/navigation/NavigationTarget.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_DatabasePane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DatabasePane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QComboBox \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qcombobox.h \
  /usr/include/x86_64-linux-gnu/qt6/QtSql/QSqlDatabase \
@@ -725,7 +725,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qdialog.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QStringListModel \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qstringlistmodel.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/PdfService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/PdfService.hpp \
  /usr/include/c++/15/fstream \
  /usr/include/x86_64-linux-gnu/c++/15/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++io.h \
@@ -739,8 +739,8 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextdocument.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QCoreApplication \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qcoreapplication.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GeminiPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GeminiPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GeminiPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GeminiPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QScrollBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qscrollbar.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QProcessEnvironment \
@@ -748,24 +748,24 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtoolbutton.h \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QTimer \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtimer.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/PersistenceService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GitPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GitPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/PersistenceService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GitPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GitPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QInputDialog \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qinputdialog.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qlineedit.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_InspectionPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/InspectionPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_InspectionPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/InspectionPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTreeWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtreewidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtreeview.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtreewidgetitemiterator.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QProgressBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qprogressbar.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_LogcatPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/LogcatPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_MainWindow.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/MainWindow.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_LogcatPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/LogcatPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_MainWindow.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/MainWindow.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QMainWindow \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qmainwindow.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QStackedWidget \
@@ -777,13 +777,13 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtoolbar.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QStatusBar \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstatusbar.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DashboardView.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/NewProjectView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DashboardView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/NewProjectView.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QGridLayout \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qgridlayout.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QFrame \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qframe.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenProjectView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenProjectView.hpp \
  /usr/include/c++/15/regex /usr/include/c++/15/bitset \
  /usr/include/c++/15/stack /usr/include/c++/15/deque \
  /usr/include/c++/15/bits/stl_deque.h /usr/include/c++/15/bits/deque.tcc \
@@ -799,11 +799,11 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/c++/15/bits/regex.h /usr/include/c++/15/bits/regex.tcc \
  /usr/include/c++/15/bits/regex_executor.h \
  /usr/include/c++/15/bits/regex_executor.tcc \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/GitService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectTypeView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/GitService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectTypeView.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QScrollArea \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qscrollarea.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectWorkspace.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectWorkspace.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QSplitter \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qsplitter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTreeView \
@@ -816,26 +816,26 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QClipboard \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qclipboard.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectHeader.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/BackupService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/PackageExplorer.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/DBMSExplorer.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/CustomIconProvider.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectHeader.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/BackupService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/PackageExplorer.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/DBMSExplorer.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/CustomIconProvider.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QFileIconProvider \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qfileiconprovider.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qabstractfileiconprovider.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/FileTreeDelegate.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/explorer/FileTreeDelegate.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QStyledItemDelegate \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qstyleditemdelegate.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/EditorHost.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/EditorPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/EditorHost.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/EditorPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QDesktopServices \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qdesktopservices.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QShortcut \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qshortcut.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QCheckBox \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qcheckbox.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/ProjectHighlighter.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/ProjectHighlighter.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QSyntaxHighlighter \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qsyntaxhighlighter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextobject.h \
@@ -845,38 +845,38 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qfontdatabase.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QTextCharFormat \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextformat.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/HexEditorPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/PdfViewerPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/HexEditorPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/PdfViewerPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWebEngineCore/QWebEngineSettings \
  /usr/include/x86_64-linux-gnu/qt6/QtWebEngineCore/qwebenginesettings.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/PdfComposerPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/FileSystemService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/DialogService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/PdfComposerPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/FileSystemService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/DialogService.hpp \
  /usr/include/c++/15/iostream \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/PersistenceService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/PdfService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/BackupService.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GeminiPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenAIPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/BrowserPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/TerminalPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/InspectionPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DatabasePane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/LogcatPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/VersionsPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/PersistenceService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/PdfService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/../../service/BackupService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GeminiPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenAIPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/BrowserPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/TerminalPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/InspectionPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DatabasePane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/LogcatPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/VersionsPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QTableWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtablewidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtableview.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SavesPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ShellScriptingPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SavesPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ShellScriptingPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QGroupBox \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qgroupbox.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GitPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SSAIConsolePane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GitPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SSAIConsolePane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/QTemporaryFile \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtemporaryfile.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/DesignerPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/SS\ AI\ Agent/SSAIModule.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/DesignerPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets/QQuickWidget \
  /usr/include/x86_64-linux-gnu/qt6/QtQuickWidgets/qquickwidget.h \
  /usr/include/x86_64-linux-gnu/qt6/QtQuick/qquickwindow.h \
@@ -930,49 +930,49 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtQml/qqmlabstracturlinterceptor.h \
  /usr/include/x86_64-linux-gnu/qt6/QtQml/QQmlComponent \
  /usr/include/x86_64-linux-gnu/qt6/QtQml/qqmlcomponent.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/DiffDialog.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/editor/DiffDialog.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QTextBlock \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtextobject.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SettingsView.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_NewProjectView.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/NewProjectView.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenAIPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenAIPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenProjectView.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenProjectView.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectHeader.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectHeader.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectTypeView.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectTypeView.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectWorkspace.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectWorkspace.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_SSAIConsolePane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SSAIConsolePane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_SavesPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SavesPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_SettingsView.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SettingsView.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ShellScriptingPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ShellScriptingPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_TerminalPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/TerminalPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_VersionsPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/VersionsPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DesignerPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/DesignerPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DiffDialog.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/DiffDialog.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_EditorHost.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/EditorHost.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_EditorPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/EditorPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_HexEditorPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/HexEditorPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_PdfComposerPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/PdfComposerPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_PdfViewerPane.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/PdfViewerPane.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_ProjectHighlighter.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/ProjectHighlighter.hpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/STMQN73SCM/moc_DBMSExplorer.cpp \
- /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/STMQN73SCM/../../../src/view/explorer/DBMSExplorer.hpp
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SettingsView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_NewProjectView.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/NewProjectView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenAIPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenAIPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenProjectView.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/OpenProjectView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectHeader.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectHeader.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectTypeView.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectTypeView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ProjectWorkspace.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ProjectWorkspace.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_SSAIConsolePane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SSAIConsolePane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_SavesPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SavesPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_SettingsView.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/SettingsView.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_ShellScriptingPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/ShellScriptingPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_TerminalPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/TerminalPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_VersionsPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/VersionsPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DesignerPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/DesignerPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DiffDialog.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/DiffDialog.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_EditorHost.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/EditorHost.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_EditorPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/EditorPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_HexEditorPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/HexEditorPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_PdfComposerPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/PdfComposerPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_PdfViewerPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/PdfViewerPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_ProjectHighlighter.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/ProjectHighlighter.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/STMQN73SCM/moc_DBMSExplorer.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/STMQN73SCM/../../../src/view/explorer/DBMSExplorer.hpp

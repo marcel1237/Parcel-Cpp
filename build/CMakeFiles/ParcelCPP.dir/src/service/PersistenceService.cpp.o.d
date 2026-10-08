@@ -1,7 +1,7 @@
 CMakeFiles/ParcelCPP.dir/src/service/PersistenceService.cpp.o: \
- /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PersistenceService.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/PersistenceService.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/src/service/PersistenceService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/PersistenceService.hpp \
  /usr/include/c++/15/string /usr/include/c++/15/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/15/bits/os_defines.h \

@@ -1,5 +1,5 @@
-/home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DiffDialog.cpp: /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/DiffDialog.hpp \
-  /home/marcel/Parcel-Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
+/home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DiffDialog.cpp: /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/editor/DiffDialog.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/moc_predefs.h \
   /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \

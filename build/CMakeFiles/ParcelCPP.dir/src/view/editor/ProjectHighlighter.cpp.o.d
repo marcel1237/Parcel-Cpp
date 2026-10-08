@@ -1,7 +1,7 @@
 CMakeFiles/ParcelCPP.dir/src/view/editor/ProjectHighlighter.cpp.o: \
- /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.cpp \
  /usr/include/stdc-predef.h \
- /home/marcel/Parcel-Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/editor/ProjectHighlighter.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QSyntaxHighlighter \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qsyntaxhighlighter.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qtguiglobal.h \
