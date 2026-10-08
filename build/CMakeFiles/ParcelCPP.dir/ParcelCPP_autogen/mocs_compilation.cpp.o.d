@@ -510,6 +510,8 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/DotNetManager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_DotNetService.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/DotNetService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_GTK3Manager.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/GTK3Manager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_GTK4Manager.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/GTK4Manager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_KDEManager.cpp \
@@ -751,6 +753,9 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/DotNetPane.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/DotNetService.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/DotNetManager.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GTK3Pane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GTK3Pane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/GTK3Manager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_GTK4Pane.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/GTK4Pane.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/GTK4Manager.hpp \
@@ -959,6 +964,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qpalette.h \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/DotNetIntegrationService.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/GTK4IntegrationService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/GTK3IntegrationService.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_NewProjectView.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/NewProjectView.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_OpenAIPane.cpp \

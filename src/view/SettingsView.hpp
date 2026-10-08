@@ -12,6 +12,7 @@
 #include "../service/KDEIntegrationService.hpp"
 #include "../service/DotNetIntegrationService.hpp"
 #include "../service/GTK4IntegrationService.hpp"
+#include "../service/GTK3IntegrationService.hpp"
 #include "../core/navigation/NavigationController.hpp"
 
 namespace Parcel::View {
@@ -90,6 +91,19 @@ namespace Parcel::View {
             gtkInfo->setStyleSheet("font-size: 11px; color: #3584e4; background: #1a1e24; padding: 10px; border-radius: 4px; border: 1px solid #234;");
             gtkBox->addWidget(gtkInfo);
             mainLayout->addLayout(gtkBox);
+
+            // GTK+ 3 Full API Integration Section
+            auto* gtk3Box = new QVBoxLayout();
+            auto* gtk3Label = new QLabel("Integração GTK+ 3 (GtkWindow, GtkBox, GtkButton & GtkCssProvider):", this);
+            gtk3Label->setStyleSheet("font-size: 14px; color: #bbb; font-weight: bold; margin-top: 15px;");
+            gtk3Box->addWidget(gtk3Label);
+
+            QString gtk3Text = Service::GTK3IntegrationService::getInstance().getApiInfo() + "\n" +
+                               Service::GTK3IntegrationService::getInstance().getGtk3WidgetsApi();
+            auto* gtk3Info = new QLabel(gtk3Text, this);
+            gtk3Info->setStyleSheet("font-size: 11px; color: #215d9c; background: #1a1f29; padding: 10px; border-radius: 4px; border: 1px solid #224;");
+            gtk3Box->addWidget(gtk3Info);
+            mainLayout->addLayout(gtk3Box);
 
             mainLayout->addStretch();
 

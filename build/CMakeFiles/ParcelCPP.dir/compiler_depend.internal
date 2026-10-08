@@ -42,6 +42,8 @@
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.cpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/FileSystemService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK3IntegrationService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/GTK3Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GitService.cpp
@@ -55,6 +57,7 @@
  /home/marcel/Parcel Suite/Parcel C++/src/view/DashboardView.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DatabasePane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/DotNetPane.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/view/GTK3Pane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GTK4Pane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GeminiPane.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/view/GitPane.hpp
@@ -107,6 +110,8 @@
  /home/marcel/Parcel-Suite/Parcel C++/src/service/DotNetManager.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/FileSystemService.hpp
+ /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK3IntegrationService.hpp
+ /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK3Manager.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GTK4Manager.hpp
  /home/marcel/Parcel-Suite/Parcel C++/src/service/GitService.hpp
@@ -1316,6 +1321,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/src/core/navigation/NavigationTarget.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/BackupService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetIntegrationService.hpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetManager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4Manager.hpp
@@ -1403,9 +1409,11 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_PdfComposerPane.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_PdfViewerPane.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_ProjectHighlighter.cpp
+ /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetManager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/DotNetService.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/GTK4Manager.hpp
  /home/marcel/Parcel Suite/Parcel C++/src/service/KDEManager.hpp
+ /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_DotNetManager.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_DotNetService.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_GTK4Manager.cpp
  /home/marcel/Parcel Suite/Parcel C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_KDEManager.cpp

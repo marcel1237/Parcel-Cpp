@@ -1,5 +1,3 @@
-3.  Coloque a api do dotnet framework em toda IDE para uso de tecnologias como
-    linq, Entity Framework e outras tecnologias em todas as linguagens.
 5.  Adicione todas APIs javascript como jquery, angular, vue.js e outras... e
     também php...
 6.  Adicione uma leitura de blueprint para conversão para c++

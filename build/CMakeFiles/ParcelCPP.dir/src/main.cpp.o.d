@@ -916,4 +916,5 @@ CMakeFiles/ParcelCPP.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qcolor.h \
  /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/../service/DotNetIntegrationService.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/../service/GTK4IntegrationService.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/../service/GTK3IntegrationService.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/Theme.hpp

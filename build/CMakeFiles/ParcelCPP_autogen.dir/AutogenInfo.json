@@ -566,6 +566,18 @@
 			null
 		],
 		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/GTK3IntegrationService.hpp",
+			"MU",
+			"RIEQWACMR2/moc_GTK3IntegrationService.cpp",
+			null
+		],
+		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/GTK3Manager.hpp",
+			"MU",
+			"RIEQWACMR2/moc_GTK3Manager.cpp",
+			null
+		],
+		[
 			"/home/marcel/Parcel Suite/Parcel C++/src/service/GTK4IntegrationService.hpp",
 			"MU",
 			"RIEQWACMR2/moc_GTK4IntegrationService.cpp",
@@ -629,6 +641,12 @@
 			"/home/marcel/Parcel Suite/Parcel C++/src/view/DotNetPane.hpp",
 			"MU",
 			"3JYSCEOBDA/moc_DotNetPane.cpp",
+			null
+		],
+		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/view/GTK3Pane.hpp",
+			"MU",
+			"3JYSCEOBDA/moc_GTK3Pane.cpp",
 			null
 		],
 		[

@@ -45,6 +45,8 @@ set(SOURCES
     src/service/GTK4IntegrationService.hpp
     src/service/GTK4Manager.hpp
     src/service/KDEManager.hpp
+    src/service/GTK3IntegrationService.hpp
+    src/service/GTK3Manager.hpp
 
     # Views (Interface Qt)
     src/view/MainWindow.hpp
@@ -70,6 +72,7 @@ set(SOURCES
     src/view/DotNetPane.hpp
     src/view/GTK4Pane.hpp
     src/view/KDEPane.hpp
+    src/view/GTK3Pane.hpp
     src/view/explorer/PackageExplorer.cpp
     src/view/explorer/PackageExplorer.hpp
     src/view/explorer/DBMSExplorer.hpp
