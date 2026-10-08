@@ -584,6 +584,12 @@
 			null
 		],
 		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/KDEManager.hpp",
+			"MU",
+			"RIEQWACMR2/moc_KDEManager.cpp",
+			null
+		],
+		[
 			"/home/marcel/Parcel Suite/Parcel C++/src/service/PdfService.hpp",
 			"MU",
 			"RIEQWACMR2/moc_PdfService.cpp",
@@ -641,6 +647,12 @@
 			"/home/marcel/Parcel Suite/Parcel C++/src/view/InspectionPane.hpp",
 			"MU",
 			"3JYSCEOBDA/moc_InspectionPane.cpp",
+			null
+		],
+		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/view/KDEPane.hpp",
+			"MU",
+			"3JYSCEOBDA/moc_KDEPane.cpp",
 			null
 		],
 		[
