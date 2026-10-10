@@ -1338,10 +1338,12 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4IntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GitService.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/JavaScriptWebManager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/KDEIntegrationService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/KDEManager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/PdfService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/PersistenceService.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/PhpWebManager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/BrowserPane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DashboardView.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/DatabasePane.hpp \
@@ -1367,6 +1369,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/ShellScriptingPane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/TerminalPane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/VersionsPane.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/WebStudioPane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/BackupService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/DialogService.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/FileSystemService.hpp \
@@ -1409,6 +1412,7 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   ParcelCPP_autogen/3JYSCEOBDA/moc_ShellScriptingPane.cpp \
   ParcelCPP_autogen/3JYSCEOBDA/moc_TerminalPane.cpp \
   ParcelCPP_autogen/3JYSCEOBDA/moc_VersionsPane.cpp \
+  ParcelCPP_autogen/3JYSCEOBDA/moc_WebStudioPane.cpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/editor/DesignerPane.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/editor/DiffDialog.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/view/editor/EditorHost.hpp \
@@ -1430,13 +1434,17 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: ParcelCPP_aut
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK2Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK3Manager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/GTK4Manager.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/JavaScriptWebManager.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/KDEManager.hpp \
+  /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/PhpWebManager.hpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_DotNetManager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_DotNetService.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_GTK2Manager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_GTK3Manager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_GTK4Manager.cpp \
+  ParcelCPP_autogen/RIEQWACMR2/moc_JavaScriptWebManager.cpp \
   ParcelCPP_autogen/RIEQWACMR2/moc_KDEManager.cpp \
+  ParcelCPP_autogen/RIEQWACMR2/moc_PhpWebManager.cpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/SS\ AI\ Agent/FilePatcher.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/SS\ AI\ Agent/GeminiClient.hpp \
   /home/marcel/Parcel\ Suite/Parcel\ C++/src/SS\ AI\ Agent/LocalAgent.hpp \
@@ -10897,6 +10905,8 @@ ParcelCPP_autogen/RQ5G6X32SA/moc_OpenAIClient.cpp:
 
 ParcelCPP_autogen/RQ5G6X32SA/moc_MLService.cpp:
 
+ParcelCPP_autogen/RIEQWACMR2/moc_PhpWebManager.cpp:
+
 ParcelCPP_autogen/RIEQWACMR2/moc_KDEManager.cpp:
 
 ParcelCPP_autogen/RIEQWACMR2/moc_DotNetManager.cpp:
@@ -11544,6 +11554,8 @@ ParcelCPP_autogen/mocs_compilation.cpp:
 /usr/lib/x86_64-linux-gnu/cmake/Qt6Qml/Qt6QmlDependencies.cmake:
 
 /usr/include/c++/15/bits/std_abs.h:
+
+ParcelCPP_autogen/3JYSCEOBDA/moc_WebStudioPane.cpp:
 
 /usr/include/c++/15/iomanip:
 
@@ -13368,6 +13380,8 @@ CMakeFiles/ParcelCPP.dir/src/SS_AI_Agent/FilePatcher.cpp.o:
 /usr/lib/x86_64-linux-gnu/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake:
 
 /usr/include/x86_64-linux-gnu/qt6/QtNetwork/qtnetwork-config.h:
+
+ParcelCPP_autogen/RIEQWACMR2/moc_JavaScriptWebManager.cpp:
 
 /home/marcel/Parcel\ Suite/Parcel\ C++/src/service/KDEManager.hpp:
 
