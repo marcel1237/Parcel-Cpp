@@ -31,6 +31,7 @@ namespace Parcel::Editor {
         QTextCharFormat commentFormat;
         QTextCharFormat stringFormat;
         QTextCharFormat xmlTagFormat;
+        QTextCharFormat qmlTypeFormat;
 
         void setupJavaRules();
         void setupXmlRules();
@@ -50,6 +51,7 @@ namespace Parcel::Editor {
         void setupDesktopRules();
         void setupQtProjectRules();
         void setupGenericListRules();
+        void setupQmlRules();
     };
 }
 #endif

@@ -8,6 +8,8 @@ ProjectHighlighter::ProjectHighlighter(QTextDocument *parent) : QSyntaxHighlight
     commentFormat.setForeground(Qt::gray);
     stringFormat.setForeground(Qt::green);
     xmlTagFormat.setForeground(Qt::blue);
+    qmlTypeFormat.setForeground(QColor(0, 191, 255));
+    qmlTypeFormat.setFontWeight(QFont::Bold);
 }
 
 void ProjectHighlighter::setLanguage(const QString &fileName) {
@@ -19,7 +21,8 @@ void ProjectHighlighter::setLanguage(const QString &fileName) {
     }
 
     rules.clear();
-    if (ext == "java" || ext == "kt") setupJavaRules();
+    if (ext == "qml") setupQmlRules();
+    else if (ext == "java" || ext == "kt") setupJavaRules();
     else if (ext == "xml" || ext == "fxml" || ext == "user") setupXmlRules();
     else if (ext == "md") setupMarkdownRules();
     else if (ext == "sh" || ext == "bash" || ext == "cflags" || ext == "cxxflags") setupShellRules();
@@ -177,6 +180,22 @@ void ProjectHighlighter::setupQtProjectRules() {
 void ProjectHighlighter::setupGenericListRules() {
     rules.push_back({QRegularExpression("^#.*"), commentFormat});
     rules.push_back({QRegularExpression("\\b[a-zA-Z0-9_\\-\\./]+\\b"), stringFormat});
+}
+
+void ProjectHighlighter::setupQmlRules() {
+    QStringList keywords = {"import", "property", "signal", "function", "id", "alias", "var", "int", "double", "string", "bool", "list", "enum", "component", "as", "readonly", "required", "if", "else", "return", "for", "while"};
+    for (const QString &kw : keywords)
+        rules.push_back({QRegularExpression(QString("\\b%1\\b").arg(kw)), keywordFormat});
+
+    QStringList qmlTypes = {"Rectangle", "Item", "Text", "Image", "Button", "Label", "TextField", "TextArea", "CheckBox", "RadioButton", "ProgressBar", "Slider", "Switch", "ComboBox", "ScrollView", "GroupBox", "Frame", "ToolBar", "TabBar", "TabButton", "ApplicationWindow", "Page", "MouseArea", "Repeater", "Loader", "Component", "Row", "Column", "Grid", "Flow", "Kirigami", "Heading", "Card", "Icon", "Separator", "InlineMessage", "Action", "FormLayout", "Shapes", "Shape", "ShapePath", "PathCubic", "Gradient", "GradientStop", "Canvas"};
+    for (const QString &type : qmlTypes)
+        rules.push_back({QRegularExpression(QString("\\b%1\\b").arg(type)), qmlTypeFormat});
+
+    rules.push_back({QRegularExpression("\\b[a-zA-Z0-9_\\.]+\\s*(?=:)"), xmlTagFormat});
+    rules.push_back({QRegularExpression("\".*?\"|'.*?'"), stringFormat});
+    rules.push_back({QRegularExpression("\\b\\d+(\\.\\d+)?\\b"), stringFormat});
+    rules.push_back({QRegularExpression("//[^\n]*"), commentFormat});
+    rules.push_back({QRegularExpression("/\\*.*?\\*/"), commentFormat});
 }
 
 void ProjectHighlighter::highlightBlock(const QString &text) {
