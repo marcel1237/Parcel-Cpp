@@ -516,8 +516,12 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/GTK3Manager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_GTK4Manager.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/GTK4Manager.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_JavaScriptWebManager.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/JavaScriptWebManager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_KDEManager.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/KDEManager.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/moc_PhpWebManager.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/RIEQWACMR2/../../../src/service/PhpWebManager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_BrowserPane.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/BrowserPane.hpp \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QWidget \
@@ -995,6 +999,10 @@ CMakeFiles/ParcelCPP.dir/ParcelCPP_autogen/mocs_compilation.cpp.o: \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/TerminalPane.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_VersionsPane.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/VersionsPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/moc_WebStudioPane.cpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/WebStudioPane.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/JavaScriptWebManager.hpp \
+ /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/3JYSCEOBDA/../../../src/view/../service/PhpWebManager.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DesignerPane.cpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/../../../src/view/editor/DesignerPane.hpp \
  /home/marcel/Parcel\ Suite/Parcel\ C++/build/ParcelCPP_autogen/DOGZW4INZE/moc_DiffDialog.cpp \

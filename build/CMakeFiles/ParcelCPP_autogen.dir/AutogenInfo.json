@@ -608,6 +608,12 @@
 			null
 		],
 		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/JavaScriptWebManager.hpp",
+			"MU",
+			"RIEQWACMR2/moc_JavaScriptWebManager.cpp",
+			null
+		],
+		[
 			"/home/marcel/Parcel Suite/Parcel C++/src/service/KDEIntegrationService.hpp",
 			"MU",
 			"RIEQWACMR2/moc_KDEIntegrationService.cpp",
@@ -629,6 +635,12 @@
 			"/home/marcel/Parcel Suite/Parcel C++/src/service/PersistenceService.hpp",
 			"MU",
 			"RIEQWACMR2/moc_PersistenceService.cpp",
+			null
+		],
+		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/service/PhpWebManager.hpp",
+			"MU",
+			"RIEQWACMR2/moc_PhpWebManager.cpp",
 			null
 		],
 		[
@@ -779,6 +791,12 @@
 			"/home/marcel/Parcel Suite/Parcel C++/src/view/VersionsPane.hpp",
 			"MU",
 			"3JYSCEOBDA/moc_VersionsPane.cpp",
+			null
+		],
+		[
+			"/home/marcel/Parcel Suite/Parcel C++/src/view/WebStudioPane.hpp",
+			"MU",
+			"3JYSCEOBDA/moc_WebStudioPane.cpp",
 			null
 		],
 		[

@@ -49,6 +49,8 @@ set(SOURCES
     src/service/GTK3Manager.hpp
     src/service/GTK2IntegrationService.hpp
     src/service/GTK2Manager.hpp
+    src/service/JavaScriptWebManager.hpp
+    src/service/PhpWebManager.hpp
 
     # Views (Interface Qt)
     src/view/MainWindow.hpp
@@ -76,6 +78,7 @@ set(SOURCES
     src/view/KDEPane.hpp
     src/view/GTK3Pane.hpp
     src/view/GTK2Pane.hpp
+    src/view/WebStudioPane.hpp
     src/view/explorer/PackageExplorer.cpp
     src/view/explorer/PackageExplorer.hpp
     src/view/explorer/DBMSExplorer.hpp
